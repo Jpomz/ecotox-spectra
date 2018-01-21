@@ -1,0 +1,2020 @@
+job_num,lab_smp_id,treatment,order,taxon,taxa_code,life_stage,length_class_mm,num_indiv,ind_mg,tot_mg
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,4,2,0.119267148,0.238534296
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,5,3,0.216938473,0.65081542
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,6,2,0.353688957,0.707377914
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,7,3,0.534694656,1.604083967
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,10,1,1.391227001,1.391227001
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,11,4,1.796270704,7.185082815
+AXL007,Control 1 Day 0,control,Diptera,Atherix pachypus,159,larvae,12,4,2.268208212,9.07283285
+AXL007,Control 1 Day 0,control,Diptera,Cricotopus/Orthocladius sp.,117,larvae,3,2,0.065380122,0.130760245
+AXL007,Control 1 Day 0,control,Diptera,Dicranota sp.,68,larvae,4,2,0.119267148,0.238534296
+AXL007,Control 1 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,3,4,0.065380122,0.26152049
+AXL007,Control 1 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 1 Day 0,control,Diptera,Eukiefferiella sp. pupae,120,pupae,2,1,0.025501271,0.025501271
+AXL007,Control 1 Day 0,control,Diptera,Nanocladius sp.,116,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 1 Day 0,control,Diptera,Nanocladius sp. pupae,116,pupae,2,4,0.025501271,0.102005084
+AXL007,Control 1 Day 0,control,Diptera,Paracladopelma sp.,130,larvae,6,1,0.13873963,0.13873963
+AXL007,Control 1 Day 0,control,Diptera,Paracladopelma sp.,130,larvae,7,1,0.21868926,0.21868926
+AXL007,Control 1 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 1 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 1 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,5,2,0.214081198,0.428162396
+AXL007,Control 1 Day 0,control,Diptera,Rheocricotopus sp.,112,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 1 Day 0,control,Diptera,Simulium sp. pupae,122,pupae,4,1,0.164624404,0.164624404
+AXL007,Control 1 Day 0,control,Diptera,Thienemanniella sp.,106,larvae,3,4,0.065380122,0.26152049
+AXL007,Control 1 Day 0,control,Diptera,Thienemanniella sp.,106,larvae,4,3,0.12751271,0.38253813
+AXL007,Control 1 Day 0,control,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 1 Day 0,control,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 1 Day 0,control,Diptera,Tvetenia sp.,118,larvae,5,1,0.214081198,0.214081198
+AXL007,Control 1 Day 0,control,Ephemeroptera,Ameletus sp.,24,larvae,3,2,0.131058008,0.262116016
+AXL007,Control 1 Day 0,control,Ephemeroptera,Ameletus sp.,24,larvae,4,1,0.275299551,0.275299551
+AXL007,Control 1 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,2,5,0.038880971,0.194404857
+AXL007,Control 1 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,6,0.124738201,0.748429207
+AXL007,Control 1 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,2,0.285232064,0.570464128
+AXL007,Control 1 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,2,0.5417696,1.0835392
+AXL007,Control 1 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,6,3,0.915083479,2.745250436
+AXL007,Control 1 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,7,6,1.425386807,8.55232084
+AXL007,Control 1 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,2,3,0.065825398,0.197476194
+AXL007,Control 1 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,3,14,0.194811102,2.727355423
+AXL007,Control 1 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,4,4,0.420677962,1.682711849
+AXL007,Control 1 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,3,2,0.194811102,0.389622203
+AXL007,Control 1 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,4,27,0.420677962,11.35830498
+AXL007,Control 1 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,5,22,0.764330089,16.81526195
+AXL007,Control 1 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,6,2,1.245001775,2.490003551
+AXL007,Control 1 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,1,4,0.0103,0.0412
+AXL007,Control 1 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,69,0.065825398,4.541952456
+AXL007,Control 1 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,34,0.194811102,6.623577457
+AXL007,Control 1 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,2,1,0.030245755,0.030245755
+AXL007,Control 1 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,4,0.089876375,0.3595055
+AXL007,Control 1 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,5,0.194639506,0.973197532
+AXL007,Control 1 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,1,0.354430665,0.354430665
+AXL007,Control 1 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,14,0.072855168,1.019972351
+AXL007,Control 1 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,50,0.222543898,11.12719491
+AXL007,Control 1 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,103,0.491469953,50.62140517
+AXL007,Control 1 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,79,0.908630158,71.78178252
+AXL007,Control 1 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,18,1.501247506,27.02245512
+AXL007,Control 1 Day 0,control,Planariidae,Polycelis coronata,207,larvae,4,1,0.117900565,0.117900565
+AXL007,Control 1 Day 0,control,Plecoptera,Capniidae (Capnia sp.),183,larvae,2,1,0.028935762,0.028935762
+AXL007,Control 1 Day 0,control,Plecoptera,Hesperoperla pacifica,14,larvae,2,2,0.072828364,0.145656727
+AXL007,Control 1 Day 0,control,Plecoptera,Isoperla fulva,165,larvae,3,1,0.398586469,0.398586469
+AXL007,Control 1 Day 0,control,Plecoptera,Pteronarcella badia,223,larvae,8,1,2.373946826,2.373946826
+AXL007,Control 1 Day 0,control,Plecoptera,Skwala americana,16,larvae,8,1,5.868523063,5.868523063
+AXL007,Control 1 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,6,3,0.856243648,2.568730944
+AXL007,Control 1 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,Control 1 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,5,1,0.48024347,0.48024347
+AXL007,Control 1 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,7,3,1.242015573,3.726046718
+AXL007,Control 1 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,8,4,1.810907633,7.243630533
+AXL007,Control 1 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,Control 1 Day 0,control,Trichoptera,Brachycentrus americanus,134,larvae,2,4,0.015157166,0.060628663
+AXL007,Control 1 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,5,9,0.164157988,1.47742189
+AXL007,Control 1 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,18,0.263714045,4.746852804
+AXL007,Control 1 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,8,0.393726742,3.149813933
+AXL007,Control 1 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,Control 1 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,Control 1 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,2,13,0.049551357,0.644167637
+AXL007,Control 1 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,3,10,0.14505119,1.450511896
+AXL007,Control 1 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,4,2,0.310802146,0.621604291
+AXL007,Control 1 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,Control 1 Day 30,control,Diptera,Atherix pachypus,159,larvae,6,3,0.353688957,1.061066871
+AXL007,Control 1 Day 30,control,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,Control 1 Day 30,control,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,Control 1 Day 30,control,Diptera,Dicranota sp.,68,larvae,5,2,0.216938473,0.433876947
+AXL007,Control 1 Day 30,control,Diptera,Dicranota sp.,68,larvae,6,1,0.353688957,0.353688957
+AXL007,Control 1 Day 30,control,Diptera,Eukiefferiella sp.,120,larvae,2,1,0.025501271,0.025501271
+AXL007,Control 1 Day 30,control,Diptera,Heleniella sp.,104,larvae,5,1,0.214081198,0.214081198
+AXL007,Control 1 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 1 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,5,2,0.214081198,0.428162396
+AXL007,Control 1 Day 30,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,Control 1 Day 30,control,Diptera,Thienemannimyia group,83,larvae,3,3,0.053718384,0.161155153
+AXL007,Control 1 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,3,5,0.131058008,0.65529004
+AXL007,Control 1 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,4,2,0.275299551,0.550599102
+AXL007,Control 1 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,6,1,0.783647859,0.783647859
+AXL007,Control 1 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,2,6,0.038880971,0.233285829
+AXL007,Control 1 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,17,0.124738201,2.12054942
+AXL007,Control 1 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,3,0.285232064,0.855696192
+AXL007,Control 1 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,2,0.5417696,1.0835392
+AXL007,Control 1 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,6,1,0.915083479,0.915083479
+AXL007,Control 1 Day 30,control,Ephemeroptera,Cinygmula sp.,30,larvae,3,1,0.222543898,0.222543898
+AXL007,Control 1 Day 30,control,Ephemeroptera,Diphetor hageni,35,larvae,2,2,0.038880971,0.077761943
+AXL007,Control 1 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,4,10,0.420677962,4.206779622
+AXL007,Control 1 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,5,9,0.764330089,6.878970797
+AXL007,Control 1 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,6,1,1.245001775,1.245001775
+AXL007,Control 1 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,5,11,0.764330089,8.407630974
+AXL007,Control 1 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,6,8,1.245001775,9.960014203
+AXL007,Control 1 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,8,1,2.688475171,2.688475171
+AXL007,Control 1 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,1,9,0.0108,0.0972
+AXL007,Control 1 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,2,2,0.072855168,0.145710336
+AXL007,Control 1 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,1,2,0.0103,0.0206
+AXL007,Control 1 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,47,0.065825398,3.093793702
+AXL007,Control 1 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,17,0.194811102,3.311788729
+AXL007,Control 1 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,13,0.420677962,5.468813509
+AXL007,Control 1 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,2,0.089876375,0.17975275
+AXL007,Control 1 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,3,0.194639506,0.583918519
+AXL007,Control 1 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,8,0.354430665,2.83544532
+AXL007,Control 1 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,Control 1 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,Control 1 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,15,0.222543898,3.338158472
+AXL007,Control 1 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,40,0.491469953,19.65879812
+AXL007,Control 1 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,44,0.908630158,39.97972697
+AXL007,Control 1 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,33,1.501247506,49.54116771
+AXL007,Control 1 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,7,6,2.29521703,13.77130218
+AXL007,Control 1 Day 30,control,Plecoptera,Capniidae (Capnia sp.),183,larvae,3,1,0.081767503,0.081767503
+AXL007,Control 1 Day 30,control,Plecoptera,Claassenia sabulosa,138,larvae,2,1,0.072828364,0.072828364
+AXL007,Control 1 Day 30,control,Plecoptera,Claassenia sabulosa,138,larvae,11,1,9.858361403,9.858361403
+AXL007,Control 1 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,6,3,0.856243648,2.568730944
+AXL007,Control 1 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,7,3,1.303048011,3.909144033
+AXL007,Control 1 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,Control 1 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,11,2,4.451056622,8.902113244
+AXL007,Control 1 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,13,1,7.13421516,7.13421516
+AXL007,Control 1 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,15,1,10.68690359,10.68690359
+AXL007,Control 1 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,17,1,15.21801227,15.21801227
+AXL007,Control 1 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,19,1,20.83388896,20.83388896
+AXL007,Control 1 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,1,0.263714045,0.263714045
+AXL007,Control 1 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,7,0.393726742,2.756087191
+AXL007,Control 1 Day 30,control,Trichoptera,Hydropsyche oslari,139,larvae,2,1,0.036114274,0.036114274
+AXL007,Control 1 Day 30,control,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,Control 1 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,Control 1 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,2,8,0.049551357,0.396410854
+AXL007,Control 1 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,3,2,0.14505119,0.290102379
+AXL007,Control 1 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,Control 1 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,6,1,0.909808005,0.909808005
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,3,3,0.05515185,0.165455549
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,4,3,0.119267148,0.357801444
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,6,2,0.353688957,0.707377914
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,7,4,0.534694656,2.138778622
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,8,2,0.764860535,1.52972107
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,9,3,1.048871212,3.146613636
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,10,5,1.391227001,6.956135005
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,11,4,1.796270704,7.185082815
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,14,4,3.428998235,13.71599294
+AXL007,Control 2 Day 0,control,Diptera,Atherix pachypus,159,larvae,17,1,5.770740644,5.770740644
+AXL007,Control 2 Day 0,control,Diptera,Bibiocephala sp.,154,larvae,5,1,0.216938473,0.216938473
+AXL007,Control 2 Day 0,control,Diptera,Chelifera sp.,66,larvae,3,1,0.095898389,0.095898389
+AXL007,Control 2 Day 0,control,Diptera,Corynoneura sp. pupae,108,pupae,2,1,0.025501271,0.025501271
+AXL007,Control 2 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,2,1,0.025501271,0.025501271
+AXL007,Control 2 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,3,12,0.065380122,0.784561469
+AXL007,Control 2 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,4,10,0.12751271,1.2751271
+AXL007,Control 2 Day 0,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,6,1,0.13873963,0.13873963
+AXL007,Control 2 Day 0,control,Diptera,Nanocladius sp.,116,larvae,3,2,0.065380122,0.130760245
+AXL007,Control 2 Day 0,control,Diptera,Nanocladius sp.,116,larvae,4,4,0.12751271,0.51005084
+AXL007,Control 2 Day 0,control,Diptera,Nanocladius sp. pupae,116,pupae,2,1,0.025501271,0.025501271
+AXL007,Control 2 Day 0,control,Diptera,Nanocladius sp. pupae,116,pupae,3,1,0.065380122,0.065380122
+AXL007,Control 2 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,3,2,0.065380122,0.130760245
+AXL007,Control 2 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,5,1,0.214081198,0.214081198
+AXL007,Control 2 Day 0,control,Diptera,Simulium sp.,122,larvae,5,1,0.290813624,0.290813624
+AXL007,Control 2 Day 0,control,Diptera,Simulium sp.,122,larvae,7,1,0.685869103,0.685869103
+AXL007,Control 2 Day 0,control,Diptera,Simulium sp.,122,larvae,8,2,0.964096939,1.928193879
+AXL007,Control 2 Day 0,control,Diptera,Simulium sp. pupae,122,pupae,3,1,0.079049738,0.079049738
+AXL007,Control 2 Day 0,control,Diptera,Simulium sp. pupae,122,pupae,4,2,0.164624404,0.329248808
+AXL007,Control 2 Day 0,control,Diptera,Thienemanniella sp.,106,larvae,2,1,0.025501271,0.025501271
+AXL007,Control 2 Day 0,control,Diptera,Thienemanniella sp.,106,larvae,3,6,0.065380122,0.392280735
+AXL007,Control 2 Day 0,control,Diptera,Thienemanniella sp. pupae,106,pupae,2,1,0.025501271,0.025501271
+AXL007,Control 2 Day 0,control,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 2 Day 0,control,Diptera,Tvetenia sp.,118,larvae,4,6,0.12751271,0.76507626
+AXL007,Control 2 Day 0,control,Diptera,Tvetenia sp.,118,larvae,5,2,0.214081198,0.428162396
+AXL007,Control 2 Day 0,control,Diptera,Tvetenia sp. pupae,118,pupae,3,2,0.065380122,0.130760245
+AXL007,Control 2 Day 0,control,Ephemeroptera,Ameletus sp.,24,larvae,3,1,0.131058008,0.131058008
+AXL007,Control 2 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,2,7,0.038880971,0.2721668
+AXL007,Control 2 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,7,0.124738201,0.873167408
+AXL007,Control 2 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,2,0.285232064,0.570464128
+AXL007,Control 2 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,2,0.5417696,1.0835392
+AXL007,Control 2 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,6,2,0.915083479,1.830166957
+AXL007,Control 2 Day 0,control,Ephemeroptera,Cinygmula sp.,30,larvae,2,4,0.072855168,0.291420672
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,2,2,0.065825398,0.131650796
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,3,22,0.194811102,4.285844237
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,4,13,0.420677962,5.468813509
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,6,1,1.245001775,1.245001775
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,3,4,0.194811102,0.779244407
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,4,38,0.420677962,15.98576256
+AXL007,Control 2 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,5,18,0.764330089,13.75794159
+AXL007,Control 2 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,1,12,0.0103,0.1236
+AXL007,Control 2 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,74,0.065825398,4.871079446
+AXL007,Control 2 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,40,0.194811102,7.792444067
+AXL007,Control 2 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,2,1,0.030245755,0.030245755
+AXL007,Control 2 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,8,0.089876375,0.719011001
+AXL007,Control 2 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,4,0.194639506,0.778558026
+AXL007,Control 2 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,Control 2 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,21,0.072855168,1.529958526
+AXL007,Control 2 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,59,0.222543898,13.13008999
+AXL007,Control 2 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,71,0.491469953,34.89436667
+AXL007,Control 2 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,73,0.908630158,66.33000157
+AXL007,Control 2 Day 0,control,Ephemeroptera,Rhithrogena sp.,2,larvae,6,4,1.501247506,6.004990026
+AXL007,Control 2 Day 0,control,Ephemeroptera,Serratella sp.,29,larvae,7,1,1.880700239,1.880700239
+AXL007,Control 2 Day 0,control,Plecoptera,Capniidae (Capnia sp.),183,larvae,3,1,0.081767503,0.081767503
+AXL007,Control 2 Day 0,control,Plecoptera,Hesperoperla pacifica,14,larvae,3,1,0.234027712,0.234027712
+AXL007,Control 2 Day 0,control,Plecoptera,Isoperla fulva,165,larvae,3,2,0.398586469,0.797172939
+AXL007,Control 2 Day 0,control,Plecoptera,Isoperla fulva,165,larvae,4,1,0.877212007,0.877212007
+AXL007,Control 2 Day 0,control,Plecoptera,Isoperla fulva,165,larvae,5,1,1.617453572,1.617453572
+AXL007,Control 2 Day 0,control,Plecoptera,Pteronarcella badia,223,larvae,8,1,2.373946826,2.373946826
+AXL007,Control 2 Day 0,control,Plecoptera,Skwala americana,16,larvae,8,1,5.868523063,5.868523063
+AXL007,Control 2 Day 0,control,Plecoptera,Skwala americana,16,larvae,11,1,14.05253948,14.05253948
+AXL007,Control 2 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,5,3,0.521083892,1.563251677
+AXL007,Control 2 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,7,2,1.303048011,2.606096022
+AXL007,Control 2 Day 0,control,Plecoptera,Zapada cinctipes,13,larvae,3,1,0.116411781,0.116411781
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,3,1,0.113490785,0.113490785
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,5,1,0.48024347,0.48024347
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,6,4,0.803654364,3.214617455
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,7,2,1.242015573,2.484031145
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,9,3,2.525521225,7.576563675
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,10,2,3.400714523,6.801429046
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,11,4,4.451056622,17.80422649
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,12,2,5.690861483,11.38172297
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,14,2,8.794998077,17.58999615
+AXL007,Control 2 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,17,2,15.21801227,30.43602455
+AXL007,Control 2 Day 0,control,Trichoptera,Brachycentrus americanus,134,larvae,2,2,0.015157166,0.030314331
+AXL007,Control 2 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,4,3,0.091895868,0.275687605
+AXL007,Control 2 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,5,29,0.164157988,4.760581645
+AXL007,Control 2 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,17,0.263714045,4.483138759
+AXL007,Control 2 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,5,0.393726742,1.968633708
+AXL007,Control 2 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,8,2,0.557152361,1.114304721
+AXL007,Control 2 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,9,1,0.756781546,0.756781546
+AXL007,Control 2 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,2,8,0.036114274,0.288914189
+AXL007,Control 2 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,3,5,0.113490785,0.567453924
+AXL007,Control 2 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,Control 2 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,Control 2 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,2,12,0.049551357,0.59461628
+AXL007,Control 2 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,4,3,0.310802146,0.932406437
+AXL007,Control 2 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,5,4,0.561304641,2.245218562
+AXL007,Control 2 Day 30,control,Coleoptera,Optioservus sp.,215,larvae,2,1,0.028970943,0.028970943
+AXL007,Control 2 Day 30,control,Diptera,Antocha sp.,137,larvae,3,1,0.05515185,0.05515185
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,4,2,0.119267148,0.238534296
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,5,3,0.216938473,0.65081542
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,6,2,0.353688957,0.707377914
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,8,2,0.764860535,1.52972107
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,10,1,1.391227001,1.391227001
+AXL007,Control 2 Day 30,control,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,Control 2 Day 30,control,Diptera,Cricotopus/Orthocladius sp.,117,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 2 Day 30,control,Diptera,Cricotopus/Orthocladius sp.,117,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 2 Day 30,control,Diptera,Heleniella sp.,104,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 2 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,4,4,0.12751271,0.51005084
+AXL007,Control 2 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,5,3,0.214081198,0.642243594
+AXL007,Control 2 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,6,1,0.326916906,0.326916906
+AXL007,Control 2 Day 30,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,Control 2 Day 30,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,2,0.041915933,0.083831865
+AXL007,Control 2 Day 30,control,Diptera,Thienemannimyia group,83,larvae,4,2,0.107485588,0.214971176
+AXL007,Control 2 Day 30,control,Diptera,Thienemannimyia group,83,larvae,5,1,0.184077318,0.184077318
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,3,7,0.131058008,0.917406055
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,4,3,0.275299551,0.825898652
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,6,1,0.783647859,0.783647859
+AXL007,Control 2 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,2,4,0.038880971,0.155523886
+AXL007,Control 2 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,11,0.124738201,1.372120213
+AXL007,Control 2 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,10,0.285232064,2.852320641
+AXL007,Control 2 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,7,2,1.425386807,2.850773613
+AXL007,Control 2 Day 30,control,Ephemeroptera,Diphetor hageni,35,larvae,2,1,0.038880971,0.038880971
+AXL007,Control 2 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,4,8,0.420677962,3.365423698
+AXL007,Control 2 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,5,7,0.764330089,5.35031062
+AXL007,Control 2 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,5,13,0.764330089,9.936291151
+AXL007,Control 2 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,6,9,1.245001775,11.20501598
+AXL007,Control 2 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,Control 2 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,1,7,0.0108,0.0756
+AXL007,Control 2 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,2,6,0.072855168,0.437131008
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,1,5,0.0103,0.0515
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,107,0.065825398,7.043317577
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,40,0.194811102,7.792444067
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,20,0.420677962,8.413559244
+AXL007,Control 2 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,5,2,0.764330089,1.528660177
+AXL007,Control 2 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,Control 2 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,3,0.194639506,0.583918519
+AXL007,Control 2 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,17,0.354430665,6.025321305
+AXL007,Control 2 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,3,0.578378468,1.735135404
+AXL007,Control 2 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,11,0.222543898,2.447982879
+AXL007,Control 2 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,40,0.491469953,19.65879812
+AXL007,Control 2 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,50,0.908630158,45.43150792
+AXL007,Control 2 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,32,1.501247506,48.03992021
+AXL007,Control 2 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,7,8,2.29521703,18.36173624
+AXL007,Control 2 Day 30,control,Planariidae,Polycelis coronata,207,larvae,2,1,0.025695197,0.025695197
+AXL007,Control 2 Day 30,control,Plecoptera,Capniidae (Capnia sp.),183,larvae,3,1,0.081767503,0.081767503
+AXL007,Control 2 Day 30,control,Plecoptera,Claassenia sabulosa,138,larvae,2,1,0.072828364,0.072828364
+AXL007,Control 2 Day 30,control,Plecoptera,Isoperla fulva,165,larvae,6,1,2.666532,2.666532
+AXL007,Control 2 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,6,2,0.856243648,1.712487296
+AXL007,Control 2 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,Control 2 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,Control 2 Day 30,control,Trichoptera,Brachycentrus americanus,134,larvae,2,2,0.015157166,0.030314331
+AXL007,Control 2 Day 30,control,Trichoptera,Brachycentrus americanus,134,larvae,3,3,0.043496596,0.130489788
+AXL007,Control 2 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,5,2,0.164157988,0.328315976
+AXL007,Control 2 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,1,0.263714045,0.263714045
+AXL007,Control 2 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,6,0.393726742,2.36236045
+AXL007,Control 2 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,8,4,0.557152361,2.228609442
+AXL007,Control 2 Day 30,control,Trichoptera,Hydropsyche oslari,139,larvae,3,1,0.113490785,0.113490785
+AXL007,Control 2 Day 30,control,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,Control 2 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,Control 2 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,2,11,0.049551357,0.545064924
+AXL007,Control 2 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,4,3,0.119267148,0.357801444
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,6,8,0.353688957,2.829511655
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,9,4,1.048871212,4.195484849
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,10,9,1.391227001,12.52104301
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,14,1,3.428998235,3.428998235
+AXL007,Control 3 Day 0,control,Diptera,Atherix pachypus,159,larvae,17,1,5.770740644,5.770740644
+AXL007,Control 3 Day 0,control,Diptera,Cricotopus/Orthocladius sp.,117,larvae,5,2,0.214081198,0.428162396
+AXL007,Control 3 Day 0,control,Diptera,Diamesa sp.,100,larvae,10,1,0.626755336,0.626755336
+AXL007,Control 3 Day 0,control,Diptera,Dicranota sp.,68,larvae,4,1,0.119267148,0.119267148
+AXL007,Control 3 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 3 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,4,8,0.12751271,1.02010168
+AXL007,Control 3 Day 0,control,Diptera,Heterotrissocladius sp.,110,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 3 Day 0,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,6,1,0.13873963,0.13873963
+AXL007,Control 3 Day 0,control,Diptera,Nanocladius sp.,116,larvae,3,4,0.065380122,0.26152049
+AXL007,Control 3 Day 0,control,Diptera,Nanocladius sp.,116,larvae,4,6,0.12751271,0.76507626
+AXL007,Control 3 Day 0,control,Diptera,Nanocladius sp. pupae,116,pupae,2,2,0.025501271,0.051002542
+AXL007,Control 3 Day 0,control,Diptera,Nanocladius sp. pupae,116,pupae,3,3,0.065380122,0.196140367
+AXL007,Control 3 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 3 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,5,2,0.214081198,0.428162396
+AXL007,Control 3 Day 0,control,Diptera,Simulium sp.,122,larvae,5,1,0.290813624,0.290813624
+AXL007,Control 3 Day 0,control,Diptera,Simulium sp.,122,larvae,7,3,0.685869103,2.05760731
+AXL007,Control 3 Day 0,control,Diptera,Simulium sp. pupae,122,pupae,4,1,0.164624404,0.164624404
+AXL007,Control 3 Day 0,control,Diptera,Thienemanniella sp.,106,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 3 Day 0,control,Diptera,Tvetenia sp.,118,larvae,4,4,0.12751271,0.51005084
+AXL007,Control 3 Day 0,control,Diptera,Tvetenia sp.,118,larvae,5,1,0.214081198,0.214081198
+AXL007,Control 3 Day 0,control,Ephemeroptera,Ameletus sp.,24,larvae,3,2,0.131058008,0.262116016
+AXL007,Control 3 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,6,0.124738201,0.748429207
+AXL007,Control 3 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,3,0.285232064,0.855696192
+AXL007,Control 3 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,6,4,0.915083479,3.660333915
+AXL007,Control 3 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,7,2,1.425386807,2.850773613
+AXL007,Control 3 Day 0,control,Ephemeroptera,Diphetor hageni,35,larvae,5,1,0.5417696,0.5417696
+AXL007,Control 3 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,2,2,0.065825398,0.131650796
+AXL007,Control 3 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,3,14,0.194811102,2.727355423
+AXL007,Control 3 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,4,15,0.420677962,6.310169433
+AXL007,Control 3 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,Control 3 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,3,1,0.194811102,0.194811102
+AXL007,Control 3 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,4,23,0.420677962,9.675593131
+AXL007,Control 3 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,5,12,0.764330089,9.171961062
+AXL007,Control 3 Day 0,control,Ephemeroptera,Epeorus longimanus,31,larvae,3,1,0.222543898,0.222543898
+AXL007,Control 3 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,41,0.065825398,2.698841315
+AXL007,Control 3 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,39,0.194811102,7.597632965
+AXL007,Control 3 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,2,0.420677962,0.841355924
+AXL007,Control 3 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,3,0.089876375,0.269629125
+AXL007,Control 3 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,6,0.194639506,1.167837039
+AXL007,Control 3 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,Control 3 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,10,0.072855168,0.728551679
+AXL007,Control 3 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,45,0.222543898,10.01447542
+AXL007,Control 3 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,99,0.491469953,48.65552536
+AXL007,Control 3 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,93,0.908630158,84.50260473
+AXL007,Control 3 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,12,1.501247506,18.01497008
+AXL007,Control 3 Day 0,control,Ephemeroptera,Serratella sp.,29,larvae,6,1,1.245001775,1.245001775
+AXL007,Control 3 Day 0,control,Ephemeroptera,Serratella sp.,29,larvae,7,1,1.880700239,1.880700239
+AXL007,Control 3 Day 0,control,Plecoptera,Diura knowltoni,168,larvae,8,1,5.868523063,5.868523063
+AXL007,Control 3 Day 0,control,Plecoptera,Isoperla fulva,165,larvae,5,1,1.617453572,1.617453572
+AXL007,Control 3 Day 0,control,Plecoptera,Pteronarcella badia,223,larvae,6,1,1.04717745,1.04717745
+AXL007,Control 3 Day 0,control,Plecoptera,Pteronarcella badia,223,larvae,7,1,1.623618151,1.623618151
+AXL007,Control 3 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,Control 3 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,7,2,1.303048011,2.606096022
+AXL007,Control 3 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,6,1,0.803654364,0.803654364
+AXL007,Control 3 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,Control 3 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,9,3,2.525521225,7.576563675
+AXL007,Control 3 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,Control 3 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,11,2,4.451056622,8.902113244
+AXL007,Control 3 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,Control 3 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,15,1,10.68690359,10.68690359
+AXL007,Control 3 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,4,1,0.091895868,0.091895868
+AXL007,Control 3 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,5,10,0.164157988,1.641579878
+AXL007,Control 3 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,14,0.263714045,3.691996625
+AXL007,Control 3 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,3,0.393726742,1.181180225
+AXL007,Control 3 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,Control 3 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,4,2,0.255733482,0.511466964
+AXL007,Control 3 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,5,1,0.48024347,0.48024347
+AXL007,Control 3 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,2,1,0.049551357,0.049551357
+AXL007,Control 3 Day 30,control,Diptera,Atherix pachypus,159,larvae,3,2,0.05515185,0.110303699
+AXL007,Control 3 Day 30,control,Diptera,Atherix pachypus,159,larvae,5,2,0.216938473,0.433876947
+AXL007,Control 3 Day 30,control,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,Control 3 Day 30,control,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,Control 3 Day 30,control,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,Control 3 Day 30,control,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,Control 3 Day 30,control,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,Control 3 Day 30,control,Diptera,Heleniella sp.,104,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 3 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 3 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,5,2,0.214081198,0.428162396
+AXL007,Control 3 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,6,3,0.326916906,0.980750717
+AXL007,Control 3 Day 30,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,2,0.017929162,0.035858323
+AXL007,Control 3 Day 30,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,11,0.041915933,0.46107526
+AXL007,Control 3 Day 30,control,Diptera,Thienemannimyia group,83,larvae,3,4,0.053718384,0.214873537
+AXL007,Control 3 Day 30,control,Diptera,Thienemannimyia group,83,larvae,4,1,0.107485588,0.107485588
+AXL007,Control 3 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,3,21,0.131058008,2.752218166
+AXL007,Control 3 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,7,1,1.16638968,1.16638968
+AXL007,Control 3 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,13,0.124738201,1.621596615
+AXL007,Control 3 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,4,0.285232064,1.140928256
+AXL007,Control 3 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,1,0.5417696,0.5417696
+AXL007,Control 3 Day 30,control,Ephemeroptera,Cinygmula sp.,30,larvae,2,3,0.072855168,0.218565504
+AXL007,Control 3 Day 30,control,Ephemeroptera,Cinygmula sp.,30,larvae,3,1,0.222543898,0.222543898
+AXL007,Control 3 Day 30,control,Ephemeroptera,Diphetor hageni,35,larvae,2,1,0.038880971,0.038880971
+AXL007,Control 3 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,4,7,0.420677962,2.944745735
+AXL007,Control 3 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,5,5,0.764330089,3.821650443
+AXL007,Control 3 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,5,4,0.764330089,3.057320354
+AXL007,Control 3 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,Control 3 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,8,1,2.688475171,2.688475171
+AXL007,Control 3 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,1,2,0.0108,0.0216
+AXL007,Control 3 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,2,4,0.072855168,0.291420672
+AXL007,Control 3 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,1,2,0.0103,0.0206
+AXL007,Control 3 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,81,0.065825398,5.331857231
+AXL007,Control 3 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,30,0.194811102,5.84433305
+AXL007,Control 3 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,7,0.420677962,2.944745735
+AXL007,Control 3 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,5,1,0.764330089,0.764330089
+AXL007,Control 3 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,2,2,0.030245755,0.060491509
+AXL007,Control 3 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,Control 3 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,8,0.354430665,2.83544532
+AXL007,Control 3 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,7,0.578378468,4.048649275
+AXL007,Control 3 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,7,1,0.875046624,0.875046624
+AXL007,Control 3 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,Control 3 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,18,0.222543898,4.005790166
+AXL007,Control 3 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,39,0.491469953,19.16732817
+AXL007,Control 3 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,54,0.908630158,49.06602856
+AXL007,Control 3 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,33,1.501247506,49.54116771
+AXL007,Control 3 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,7,9,2.29521703,20.65695327
+AXL007,Control 3 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,8,1,3.315382034,3.315382034
+AXL007,Control 3 Day 30,control,Planariidae,Polycelis coronata,207,larvae,4,1,0.117900565,0.117900565
+AXL007,Control 3 Day 30,control,Plecoptera,Capniidae (Capnia sp.),183,larvae,2,2,0.028935762,0.057871525
+AXL007,Control 3 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,7,4,1.303048011,5.212192044
+AXL007,Control 3 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,Control 3 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,3,0.393726742,1.181180225
+AXL007,Control 3 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,Control 3 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,2,7,0.049551357,0.346859497
+AXL007,Control 3 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,3,1,0.14505119,0.14505119
+AXL007,Control 3 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,4,2,0.119267148,0.238534296
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,5,2,0.216938473,0.433876947
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,6,5,0.353688957,1.768444784
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,8,2,0.764860535,1.52972107
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,12,4,2.268208212,9.07283285
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,14,7,3.428998235,24.00298764
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,15,3,4.125709674,12.37712902
+AXL007,Control 4 Day 0,control,Diptera,Atherix pachypus,159,larvae,18,1,6.726413847,6.726413847
+AXL007,Control 4 Day 0,control,Diptera,Chelifera sp.,66,larvae,3,1,0.095898389,0.095898389
+AXL007,Control 4 Day 0,control,Diptera,Corynoneura sp.,108,larvae,2,1,0.025501271,0.025501271
+AXL007,Control 4 Day 0,control,Diptera,Cricotopus/Orthocladius sp.,117,larvae,3,3,0.065380122,0.196140367
+AXL007,Control 4 Day 0,control,Diptera,Cricotopus/Orthocladius sp.,117,larvae,4,3,0.12751271,0.38253813
+AXL007,Control 4 Day 0,control,Diptera,Cricotopus/Orthocladius sp. pupae,117,pupae,6,1,0.326916906,0.326916906
+AXL007,Control 4 Day 0,control,Diptera,Dicranota sp.,68,larvae,5,2,0.216938473,0.433876947
+AXL007,Control 4 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,1,1,0.0051,0.0051
+AXL007,Control 4 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,3,3,0.065380122,0.196140367
+AXL007,Control 4 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,4,3,0.12751271,0.38253813
+AXL007,Control 4 Day 0,control,Diptera,Eukiefferiella sp.,120,larvae,5,1,0.214081198,0.214081198
+AXL007,Control 4 Day 0,control,Diptera,Eukiefferiella sp. pupae,120,pupae,2,1,0.025501271,0.025501271
+AXL007,Control 4 Day 0,control,Diptera,Heleniella sp.,104,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 4 Day 0,control,Diptera,Heterotrissocladius sp.,110,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 4 Day 0,control,Diptera,Limnophyes sp.,77,larvae,3,1,0.031907945,0.031907945
+AXL007,Control 4 Day 0,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,Control 4 Day 0,control,Diptera,Nanocladius sp.,116,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 4 Day 0,control,Diptera,Nanocladius sp.,116,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 4 Day 0,control,Diptera,Nanocladius sp. pupae,116,pupae,2,1,0.025501271,0.025501271
+AXL007,Control 4 Day 0,control,Diptera,Nanocladius sp. pupae,116,pupae,3,1,0.065380122,0.065380122
+AXL007,Control 4 Day 0,control,Diptera,Paracladopelma sp.,130,larvae,4,1,0.041915933,0.041915933
+AXL007,Control 4 Day 0,control,Diptera,Paracladopelma sp.,130,larvae,5,3,0.080994866,0.242984599
+AXL007,Control 4 Day 0,control,Diptera,Paracladopelma sp. pupae,130,pupae,4,1,0.041915933,0.041915933
+AXL007,Control 4 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,2,1,0.025501271,0.025501271
+AXL007,Control 4 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 4 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,5,1,0.214081198,0.214081198
+AXL007,Control 4 Day 0,control,Diptera,Parametriocnemus sp.,109,larvae,6,1,0.326916906,0.326916906
+AXL007,Control 4 Day 0,control,Diptera,Phaenopsectra sp.,131,larvae,4,1,0.041915933,0.041915933
+AXL007,Control 4 Day 0,control,Diptera,Rheocricotopus sp.,112,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 4 Day 0,control,Diptera,Simulium sp. pupae,122,pupae,3,1,0.079049738,0.079049738
+AXL007,Control 4 Day 0,control,Diptera,Simulium sp. pupae,122,pupae,4,1,0.164624404,0.164624404
+AXL007,Control 4 Day 0,control,Diptera,Thienemanniella sp.,106,larvae,2,2,0.025501271,0.051002542
+AXL007,Control 4 Day 0,control,Diptera,Thienemanniella sp. pupae,106,pupae,2,1,0.025501271,0.025501271
+AXL007,Control 4 Day 0,control,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 4 Day 0,control,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,Control 4 Day 0,control,Diptera,Tvetenia sp. pupae,118,pupae,3,1,0.065380122,0.065380122
+AXL007,Control 4 Day 0,control,Ephemeroptera,Ameletus sp.,24,larvae,4,1,0.275299551,0.275299551
+AXL007,Control 4 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,2,11,0.038880971,0.427690686
+AXL007,Control 4 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,6,0.124738201,0.748429207
+AXL007,Control 4 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,3,0.285232064,0.855696192
+AXL007,Control 4 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,1,0.5417696,0.5417696
+AXL007,Control 4 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,6,2,0.915083479,1.830166957
+AXL007,Control 4 Day 0,control,Ephemeroptera,Baetis tricaudatus,26,larvae,7,1,1.425386807,1.425386807
+AXL007,Control 4 Day 0,control,Ephemeroptera,Cinygmula sp.,30,larvae,2,3,0.072855168,0.218565504
+AXL007,Control 4 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,3,9,0.194811102,1.753299915
+AXL007,Control 4 Day 0,control,Ephemeroptera,Drunella doddsii,171,larvae,4,11,0.420677962,4.627457584
+AXL007,Control 4 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,3,5,0.194811102,0.974055508
+AXL007,Control 4 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,4,29,0.420677962,12.1996609
+AXL007,Control 4 Day 0,control,Ephemeroptera,Drunella grandis,201,larvae,5,15,0.764330089,11.46495133
+AXL007,Control 4 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,55,0.065825398,3.620396885
+AXL007,Control 4 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,35,0.194811102,6.818388559
+AXL007,Control 4 Day 0,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,2,0.420677962,0.841355924
+AXL007,Control 4 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,Control 4 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,6,0.194639506,1.167837039
+AXL007,Control 4 Day 0,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,4,0.354430665,1.41772266
+AXL007,Control 4 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,17,0.072855168,1.238537855
+AXL007,Control 4 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,44,0.222543898,9.791931518
+AXL007,Control 4 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,78,0.491469953,38.33465634
+AXL007,Control 4 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,90,0.908630158,81.77671426
+AXL007,Control 4 Day 0,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,7,1.501247506,10.50873254
+AXL007,Control 4 Day 0,control,Plecoptera,Capniidae (Capnia sp.),183,larvae,2,1,0.028935762,0.028935762
+AXL007,Control 4 Day 0,control,Plecoptera,Diura knowltoni,168,larvae,6,1,2.666532,2.666532
+AXL007,Control 4 Day 0,control,Plecoptera,Diura knowltoni,168,larvae,9,1,8.10567212,8.10567212
+AXL007,Control 4 Day 0,control,Plecoptera,Hesperoperla pacifica,14,larvae,6,1,1.721601548,1.721601548
+AXL007,Control 4 Day 0,control,Plecoptera,Isoperla fulva,165,larvae,4,3,0.877212007,2.631636021
+AXL007,Control 4 Day 0,control,Plecoptera,Pteronarcella badia,223,larvae,7,1,1.623618151,1.623618151
+AXL007,Control 4 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,5,4,0.521083892,2.084335569
+AXL007,Control 4 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,6,2,0.856243648,1.712487296
+AXL007,Control 4 Day 0,control,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,Control 4 Day 0,control,Plecoptera,Zapada cinctipes,13,larvae,3,1,0.116411781,0.116411781
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,4,1,0.255733482,0.255733482
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,5,5,0.48024347,2.40121735
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,8,3,1.810907633,5.4327229
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,9,2,2.525521225,5.05104245
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,10,5,3.400714523,17.00357261
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,11,1,4.451056622,4.451056622
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,Control 4 Day 0,control,Trichoptera,Arctopsyche grandis,212,larvae,14,2,8.794998077,17.58999615
+AXL007,Control 4 Day 0,control,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,Control 4 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,4,2,0.091895868,0.183791737
+AXL007,Control 4 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,5,24,0.164157988,3.939791707
+AXL007,Control 4 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,20,0.263714045,5.274280893
+AXL007,Control 4 Day 0,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,Control 4 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,2,5,0.036114274,0.180571368
+AXL007,Control 4 Day 0,control,Trichoptera,Hydropsyche oslari,139,larvae,3,1,0.113490785,0.113490785
+AXL007,Control 4 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,Control 4 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,2,2,0.049551357,0.099102713
+AXL007,Control 4 Day 0,control,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,4,1,0.119267148,0.119267148
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,5,2,0.216938473,0.433876947
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,Control 4 Day 30,control,Diptera,Atherix pachypus,159,larvae,15,1,4.125709674,4.125709674
+AXL007,Control 4 Day 30,control,Diptera,Dicranota sp.,68,larvae,5,2,0.216938473,0.433876947
+AXL007,Control 4 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,3,2,0.065380122,0.130760245
+AXL007,Control 4 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,4,2,0.12751271,0.25502542
+AXL007,Control 4 Day 30,control,Diptera,Heterotrissocladius sp.,110,larvae,5,1,0.214081198,0.214081198
+AXL007,Control 4 Day 30,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,Control 4 Day 30,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,Control 4 Day 30,control,Diptera,Parametriocnemus sp.,109,larvae,3,1,0.065380122,0.065380122
+AXL007,Control 4 Day 30,control,Diptera,Polypedilum sp.,90,larvae,3,1,0.017929162,0.017929162
+AXL007,Control 4 Day 30,control,Diptera,Polypedilum sp.,90,larvae,4,1,0.041915933,0.041915933
+AXL007,Control 4 Day 30,control,Diptera,Polypedilum sp.,90,larvae,5,1,0.080994866,0.080994866
+AXL007,Control 4 Day 30,control,Diptera,Thienemannimyia group,83,larvae,3,1,0.053718384,0.053718384
+AXL007,Control 4 Day 30,control,Diptera,Thienemannimyia group,83,larvae,4,1,0.107485588,0.107485588
+AXL007,Control 4 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,3,14,0.131058008,1.834812111
+AXL007,Control 4 Day 30,control,Ephemeroptera,Ameletus sp.,24,larvae,4,1,0.275299551,0.275299551
+AXL007,Control 4 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,2,10,0.038880971,0.388809714
+AXL007,Control 4 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,15,0.124738201,1.871073018
+AXL007,Control 4 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,2,0.285232064,0.570464128
+AXL007,Control 4 Day 30,control,Ephemeroptera,Baetis tricaudatus,26,larvae,6,2,0.915083479,1.830166957
+AXL007,Control 4 Day 30,control,Ephemeroptera,Cinygmula sp.,30,larvae,2,1,0.072855168,0.072855168
+AXL007,Control 4 Day 30,control,Ephemeroptera,Cinygmula sp.,30,larvae,3,2,0.222543898,0.445087796
+AXL007,Control 4 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,4,10,0.420677962,4.206779622
+AXL007,Control 4 Day 30,control,Ephemeroptera,Drunella doddsii,171,larvae,5,11,0.764330089,8.407630974
+AXL007,Control 4 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,Control 4 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,5,16,0.764330089,12.22928142
+AXL007,Control 4 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,6,6,1.245001775,7.470010652
+AXL007,Control 4 Day 30,control,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,Control 4 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,1,2,0.0108,0.0216
+AXL007,Control 4 Day 30,control,Ephemeroptera,Epeorus longimanus,31,larvae,2,1,0.072855168,0.072855168
+AXL007,Control 4 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,74,0.065825398,4.871079446
+AXL007,Control 4 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,36,0.194811102,7.01319966
+AXL007,Control 4 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,17,0.420677962,7.151525358
+AXL007,Control 4 Day 30,control,Ephemeroptera,Ephemerella sp.,28,larvae,5,2,0.764330089,1.528660177
+AXL007,Control 4 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,2,0.089876375,0.17975275
+AXL007,Control 4 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,2,0.194639506,0.389279013
+AXL007,Control 4 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,Control 4 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,Control 4 Day 30,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,9,1,1.718672936,1.718672936
+AXL007,Control 4 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,Control 4 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,16,0.222543898,3.56070237
+AXL007,Control 4 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,23,0.491469953,11.30380892
+AXL007,Control 4 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,32,0.908630158,29.07616507
+AXL007,Control 4 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,29,1.501247506,43.53617769
+AXL007,Control 4 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,7,16,2.29521703,36.72347249
+AXL007,Control 4 Day 30,control,Ephemeroptera,Rhithrogena sp.,32,larvae,8,1,3.315382034,3.315382034
+AXL007,Control 4 Day 30,control,Plecoptera,Capniidae (Capnia sp.),183,larvae,3,1,0.081767503,0.081767503
+AXL007,Control 4 Day 30,control,Plecoptera,Pteronarcella badia,223,larvae,8,1,2.373946826,2.373946826
+AXL007,Control 4 Day 30,control,Plecoptera,Pteronarcella badia,223,larvae,10,1,4.478988774,4.478988774
+AXL007,Control 4 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,Control 4 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,7,6,1.303048011,7.818288066
+AXL007,Control 4 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,8,2,1.874694396,3.749388792
+AXL007,Control 4 Day 30,control,Plecoptera,Sweltsa sp.,11,larvae,9,1,2.583865792,2.583865792
+AXL007,Control 4 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,6,1,0.803654364,0.803654364
+AXL007,Control 4 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,10,3,3.400714523,10.20214357
+AXL007,Control 4 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,Control 4 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,13,2,7.13421516,14.26843032
+AXL007,Control 4 Day 30,control,Trichoptera,Arctopsyche grandis,212,larvae,16,1,12.82345367,12.82345367
+AXL007,Control 4 Day 30,control,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,Control 4 Day 30,control,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,Control 4 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,5,0.263714045,1.318570223
+AXL007,Control 4 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,13,0.393726742,5.118447641
+AXL007,Control 4 Day 30,control,Trichoptera,Brachycentrus occidentalis,134,larvae,8,3,0.557152361,1.671457082
+AXL007,Control 4 Day 30,control,Trichoptera,Hydropsyche oslari,139,larvae,6,1,0.803654364,0.803654364
+AXL007,Control 4 Day 30,control,Trichoptera,Hydropsyche oslari,139,larvae,7,1,1.242015573,1.242015573
+AXL007,Control 4 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,2,2,0.049551357,0.099102713
+AXL007,Control 4 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,3,2,0.14505119,0.290102379
+AXL007,Control 4 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,Control 4 Day 30,control,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,A1,Cu_3,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,A1,Cu_3,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,A1,Cu_3,Diptera,Atherix pachypus,159,larvae,9,6,1.048871212,6.293227273
+AXL007,A1,Cu_3,Diptera,Atherix pachypus,159,larvae,10,3,1.391227001,4.173681003
+AXL007,A1,Cu_3,Diptera,Atherix pachypus,159,larvae,11,3,1.796270704,5.388812111
+AXL007,A1,Cu_3,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,A1,Cu_3,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,A1,Cu_3,Diptera,Pagastia sp.,97,larvae,5,1,0.080994866,0.080994866
+AXL007,A1,Cu_3,Plecoptera,Pteronarcella badia,223,larvae,8,1,2.373946826,2.373946826
+AXL007,A1,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,6,1,0.803654364,0.803654364
+AXL007,A1,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,A1,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,10,2,3.400714523,6.801429046
+AXL007,A1,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,A1,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,20,1,24.0812421,24.0812421
+AXL007,A1,Cu_3,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,A1,Cu_3,Trichoptera,Brachycentrus occidentalis,134,larvae,6,2,0.263714045,0.527428089
+AXL007,A1,Cu_3,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,A1,Cu_3,Trichoptera,Hydropsyche oslari,139,larvae,3,1,0.113490785,0.113490785
+AXL007,A1,Cu_3,Trichoptera,Hydropsyche oslari,139,larvae,4,3,0.255733482,0.767200445
+AXL007,A1,Cu_3,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,A1,Cu_3,Trichoptera,Lepidostoma sp.,45,larvae,2,3,0.049551357,0.14865407
+AXL007,A1,Cu_3,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,A2,Zn_50,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,A2,Zn_50,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,A2,Zn_50,Diptera,Atherix pachypus,159,larvae,6,2,0.353688957,0.707377914
+AXL007,A2,Zn_50,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,A2,Zn_50,Diptera,Atherix pachypus,159,larvae,8,2,0.764860535,1.52972107
+AXL007,A2,Zn_50,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,A2,Zn_50,Diptera,Atherix pachypus,159,larvae,13,2,2.811124793,5.622249585
+AXL007,A2,Zn_50,Diptera,Corynoneura sp.,108,larvae,2,1,0.025501271,0.025501271
+AXL007,A2,Zn_50,Diptera,Eukiefferiella sp.,120,larvae,3,1,0.065380122,0.065380122
+AXL007,A2,Zn_50,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,8,0.017929162,0.143433294
+AXL007,A2,Zn_50,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,5,0.041915933,0.209579664
+AXL007,A2,Zn_50,Diptera,Nanocladius sp. pupae,116,pupae,2,2,0.025501271,0.051002542
+AXL007,A2,Zn_50,Diptera,Rheotanytarsus sp.,86,larvae,4,1,0.041915933,0.041915933
+AXL007,A2,Zn_50,Diptera,Thienemannimyia group,83,larvae,4,1,0.107485588,0.107485588
+AXL007,A2,Zn_50,Ephemeroptera,Ameletus sp.,24,larvae,5,1,0.489590899,0.489590899
+AXL007,A2,Zn_50,Ephemeroptera,Baetis tricaudatus,26,larvae,3,5,0.124738201,0.623691006
+AXL007,A2,Zn_50,Ephemeroptera,Baetis tricaudatus,26,larvae,4,4,0.285232064,1.140928256
+AXL007,A2,Zn_50,Ephemeroptera,Baetis tricaudatus,26,larvae,5,4,0.5417696,2.1670784
+AXL007,A2,Zn_50,Ephemeroptera,Diphetor hageni,35,larvae,2,2,0.038880971,0.077761943
+AXL007,A2,Zn_50,Ephemeroptera,Diphetor hageni,35,larvae,3,11,0.124738201,1.372120213
+AXL007,A2,Zn_50,Ephemeroptera,Diphetor hageni,35,larvae,4,5,0.285232064,1.42616032
+AXL007,A2,Zn_50,Ephemeroptera,Drunella doddsii,171,larvae,3,2,0.194811102,0.389622203
+AXL007,A2,Zn_50,Ephemeroptera,Drunella doddsii,171,larvae,4,3,0.420677962,1.262033887
+AXL007,A2,Zn_50,Ephemeroptera,Drunella doddsii,171,larvae,6,1,1.245001775,1.245001775
+AXL007,A2,Zn_50,Ephemeroptera,Drunella grandis,201,larvae,5,2,0.764330089,1.528660177
+AXL007,A2,Zn_50,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,A2,Zn_50,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,A2,Zn_50,Ephemeroptera,Drunella grandis,201,larvae,8,1,2.688475171,2.688475171
+AXL007,A2,Zn_50,Ephemeroptera,Epeorus longimanus,31,larvae,1,3,0.0108,0.0324
+AXL007,A2,Zn_50,Ephemeroptera,Epeorus longimanus,31,larvae,2,3,0.072855168,0.218565504
+AXL007,A2,Zn_50,Ephemeroptera,Ephemerella sp.,28,larvae,1,1,0.0103,0.0103
+AXL007,A2,Zn_50,Ephemeroptera,Ephemerella sp.,28,larvae,2,21,0.065825398,1.382333356
+AXL007,A2,Zn_50,Ephemeroptera,Ephemerella sp.,28,larvae,3,24,0.194811102,4.67546644
+AXL007,A2,Zn_50,Ephemeroptera,Ephemerella sp.,28,larvae,4,4,0.420677962,1.682711849
+AXL007,A2,Zn_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,2,0.089876375,0.17975275
+AXL007,A2,Zn_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,A2,Zn_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,3,0.354430665,1.063291995
+AXL007,A2,Zn_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,3,0.578378468,1.735135404
+AXL007,A2,Zn_50,Ephemeroptera,Rhithrogena sp.,32,larvae,3,26,0.222543898,5.786141351
+AXL007,A2,Zn_50,Ephemeroptera,Rhithrogena sp.,32,larvae,4,53,0.491469953,26.04790751
+AXL007,A2,Zn_50,Ephemeroptera,Rhithrogena sp.,32,larvae,5,35,0.908630158,31.80205555
+AXL007,A2,Zn_50,Ephemeroptera,Rhithrogena sp.,32,larvae,6,3,1.501247506,4.503742519
+AXL007,A2,Zn_50,Plecoptera,Hesperoperla pacifica,14,larvae,6,1,1.721601548,1.721601548
+AXL007,A2,Zn_50,Plecoptera,Sweltsa sp.,11,larvae,5,1,0.521083892,0.521083892
+AXL007,A2,Zn_50,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,A2,Zn_50,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,A2,Zn_50,Trichoptera,Arctopsyche grandis,212,larvae,7,2,1.242015573,2.484031145
+AXL007,A2,Zn_50,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,A2,Zn_50,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,A2,Zn_50,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,A2,Zn_50,Trichoptera,Brachycentrus americanus,134,larvae,3,3,0.043496596,0.130489788
+AXL007,A2,Zn_50,Trichoptera,Brachycentrus occidentalis,134,larvae,5,3,0.164157988,0.492473963
+AXL007,A2,Zn_50,Trichoptera,Brachycentrus occidentalis,134,larvae,6,2,0.263714045,0.527428089
+AXL007,A2,Zn_50,Trichoptera,Brachycentrus occidentalis,134,larvae,7,3,0.393726742,1.181180225
+AXL007,A2,Zn_50,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,A2,Zn_50,Trichoptera,Hydropsyche oslari,139,larvae,5,1,0.48024347,0.48024347
+AXL007,A2,Zn_50,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,A2,Zn_50,Trichoptera,Lepidostoma sp.,45,larvae,2,59,0.049551357,2.923530045
+AXL007,A2,Zn_50,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,A3,Ni_200,Diptera,Atherix pachypus,159,larvae,4,2,0.119267148,0.238534296
+AXL007,A3,Ni_200,Diptera,Atherix pachypus,159,larvae,5,3,0.216938473,0.65081542
+AXL007,A3,Ni_200,Diptera,Atherix pachypus,159,larvae,6,5,0.353688957,1.768444784
+AXL007,A3,Ni_200,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,A3,Ni_200,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,A3,Ni_200,Diptera,Atherix pachypus,159,larvae,10,3,1.391227001,4.173681003
+AXL007,A3,Ni_200,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,A3,Ni_200,Diptera,Eukiefferiella sp. pupae,120,pupae,2,2,0.025501271,0.051002542
+AXL007,A3,Ni_200,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,A3,Ni_200,Diptera,Polypedilum sp.,90,larvae,4,1,0.041915933,0.041915933
+AXL007,A3,Ni_200,Diptera,Synorthocladius sp. pupae,114,pupae,2,1,0.025501271,0.025501271
+AXL007,A3,Ni_200,Ephemeroptera,Baetis tricaudatus,26,larvae,3,1,0.124738201,0.124738201
+AXL007,A3,Ni_200,Ephemeroptera,Baetis tricaudatus,26,larvae,4,1,0.285232064,0.285232064
+AXL007,A3,Ni_200,Ephemeroptera,Drunella grandis,201,larvae,6,2,1.245001775,2.490003551
+AXL007,A3,Ni_200,Ephemeroptera,Ephemerella sp.,28,larvae,3,1,0.194811102,0.194811102
+AXL007,A3,Ni_200,Ephemeroptera,Rhithrogena sp.,32,larvae,3,1,0.222543898,0.222543898
+AXL007,A3,Ni_200,Ephemeroptera,Rhithrogena sp.,32,larvae,4,12,0.491469953,5.897639437
+AXL007,A3,Ni_200,Ephemeroptera,Rhithrogena sp.,32,larvae,5,12,0.908630158,10.9035619
+AXL007,A3,Ni_200,Ephemeroptera,Rhithrogena sp.,32,larvae,6,1,1.501247506,1.501247506
+AXL007,A3,Ni_200,Plecoptera,Hesperoperla pacifica,14,larvae,3,1,0.234027712,0.234027712
+AXL007,A3,Ni_200,Plecoptera,Triznaka signata,19,larvae,4,1,0.28374275,0.28374275
+AXL007,A3,Ni_200,Trichoptera,Arctopsyche grandis,212,larvae,7,2,1.242015573,2.484031145
+AXL007,A3,Ni_200,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,A3,Ni_200,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,A3,Ni_200,Trichoptera,Brachycentrus americanus,134,larvae,5,2,0.164157988,0.328315976
+AXL007,A3,Ni_200,Trichoptera,Brachycentrus occidentalis,134,larvae,5,2,0.164157988,0.328315976
+AXL007,A3,Ni_200,Trichoptera,Brachycentrus occidentalis,134,larvae,6,3,0.263714045,0.791142134
+AXL007,A3,Ni_200,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,A3,Ni_200,Trichoptera,Lepidostoma sp.,45,larvae,2,18,0.049551357,0.891924421
+AXL007,A3,Ni_200,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,A3,Ni_200,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,A4,NZ_50,Diptera,Atherix pachypus,159,larvae,4,1,0.119267148,0.119267148
+AXL007,A4,NZ_50,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,A4,NZ_50,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,A4,NZ_50,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,A4,NZ_50,Diptera,Atherix pachypus,159,larvae,10,5,1.391227001,6.956135005
+AXL007,A4,NZ_50,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,A4,NZ_50,Diptera,Atherix pachypus,159,larvae,16,1,4.905052628,4.905052628
+AXL007,A4,NZ_50,Diptera,Cricotopus/Orthocladius sp. pupae,117,pupae,3,1,0.065380122,0.065380122
+AXL007,A4,NZ_50,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,A4,NZ_50,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,1,0.041915933,0.041915933
+AXL007,A4,NZ_50,Diptera,Nanocladius sp. pupae,116,pupae,2,2,0.025501271,0.051002542
+AXL007,A4,NZ_50,Diptera,Polypedilum sp.,90,larvae,5,1,0.080994866,0.080994866
+AXL007,A4,NZ_50,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,A4,NZ_50,Diptera,Tvetenia sp.,118,larvae,5,1,0.214081198,0.214081198
+AXL007,A4,NZ_50,Ephemeroptera,Drunella doddsii,171,larvae,4,3,0.420677962,1.262033887
+AXL007,A4,NZ_50,Ephemeroptera,Drunella grandis,201,larvae,5,5,0.764330089,3.821650443
+AXL007,A4,NZ_50,Ephemeroptera,Drunella grandis,201,larvae,7,3,1.880700239,5.642100717
+AXL007,A4,NZ_50,Ephemeroptera,Drunella grandis,201,larvae,8,1,2.688475171,2.688475171
+AXL007,A4,NZ_50,Ephemeroptera,Ephemerella sp.,28,larvae,2,1,0.065825398,0.065825398
+AXL007,A4,NZ_50,Ephemeroptera,Ephemerella sp.,28,larvae,3,2,0.194811102,0.389622203
+AXL007,A4,NZ_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,A4,NZ_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,A4,NZ_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,7,3,0.875046624,2.625139871
+AXL007,A4,NZ_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,8,1,1.252557186,1.252557186
+AXL007,A4,NZ_50,Ephemeroptera,Rhithrogena sp.,32,larvae,2,2,0.072855168,0.145710336
+AXL007,A4,NZ_50,Ephemeroptera,Rhithrogena sp.,32,larvae,3,34,0.222543898,7.566492536
+AXL007,A4,NZ_50,Ephemeroptera,Rhithrogena sp.,32,larvae,4,35,0.491469953,17.20144836
+AXL007,A4,NZ_50,Ephemeroptera,Rhithrogena sp.,32,larvae,5,46,0.908630158,41.79698729
+AXL007,A4,NZ_50,Plecoptera,Capniidae (Capnia sp.),183,larvae,4,1,0.170873131,0.170873131
+AXL007,A4,NZ_50,Plecoptera,Diura knowltoni,168,larvae,9,1,8.10567212,8.10567212
+AXL007,A4,NZ_50,Plecoptera,Pteronarcella badia,223,larvae,16,1,17.05694797,17.05694797
+AXL007,A4,NZ_50,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,A4,NZ_50,Trichoptera,Arctopsyche grandis,212,larvae,10,3,3.400714523,10.20214357
+AXL007,A4,NZ_50,Trichoptera,Brachycentrus americanus,134,larvae,2,2,0.015157166,0.030314331
+AXL007,A4,NZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,A4,NZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,6,3,0.263714045,0.791142134
+AXL007,A4,NZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,7,9,0.393726742,3.543540674
+AXL007,A4,NZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,9,1,0.756781546,0.756781546
+AXL007,A4,NZ_50,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,A4,NZ_50,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,A4,NZ_50,Trichoptera,Hydropsyche oslari,139,larvae,6,1,0.803654364,0.803654364
+AXL007,A4,NZ_50,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,A4,NZ_50,Trichoptera,Lepidostoma sp.,45,larvae,2,45,0.049551357,2.229811051
+AXL007,A4,NZ_50,Trichoptera,Lepidostoma sp.,45,larvae,3,5,0.14505119,0.725255948
+AXL007,A4,NZ_50,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,A5,control,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,A5,control,Diptera,Atherix pachypus,159,larvae,9,7,1.048871212,7.342098485
+AXL007,A5,control,Diptera,Atherix pachypus,159,larvae,10,3,1.391227001,4.173681003
+AXL007,A5,control,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,A5,control,Diptera,Cladotanytarsus sp.,86,larvae,3,1,0.017929162,0.017929162
+AXL007,A5,control,Diptera,Eukiefferiella sp.,120,larvae,4,1,0.12751271,0.12751271
+AXL007,A5,control,Diptera,Polypedilum sp.,90,larvae,5,1,0.080994866,0.080994866
+AXL007,A5,control,Diptera,Polypedilum sp. pupae,90,pupae,4,1,0.041915933,0.041915933
+AXL007,A5,control,Diptera,Simulium sp. pupae,122,pupae,3,1,0.079049738,0.079049738
+AXL007,A5,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,7,0.124738201,0.873167408
+AXL007,A5,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,4,0.285232064,1.140928256
+AXL007,A5,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,1,0.5417696,0.5417696
+AXL007,A5,control,Ephemeroptera,Diphetor hageni,35,larvae,3,5,0.124738201,0.623691006
+AXL007,A5,control,Ephemeroptera,Diphetor hageni,35,larvae,4,1,0.285232064,0.285232064
+AXL007,A5,control,Ephemeroptera,Drunella doddsii,171,larvae,3,1,0.194811102,0.194811102
+AXL007,A5,control,Ephemeroptera,Drunella doddsii,171,larvae,4,4,0.420677962,1.682711849
+AXL007,A5,control,Ephemeroptera,Drunella doddsii,171,larvae,5,2,0.764330089,1.528660177
+AXL007,A5,control,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,A5,control,Ephemeroptera,Drunella grandis,201,larvae,5,8,0.764330089,6.114640708
+AXL007,A5,control,Ephemeroptera,Drunella grandis,201,larvae,6,4,1.245001775,4.980007101
+AXL007,A5,control,Ephemeroptera,Epeorus longimanus,31,larvae,2,1,0.072855168,0.072855168
+AXL007,A5,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,26,0.065825398,1.711460346
+AXL007,A5,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,17,0.194811102,3.311788729
+AXL007,A5,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,10,0.420677962,4.206779622
+AXL007,A5,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,2,0.194639506,0.389279013
+AXL007,A5,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,5,0.354430665,1.772153325
+AXL007,A5,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,1,0.578378468,0.578378468
+AXL007,A5,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,24,0.222543898,5.341053555
+AXL007,A5,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,50,0.491469953,24.57349765
+AXL007,A5,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,25,0.908630158,22.71575396
+AXL007,A5,control,Plecoptera,Pteronarcella badia,223,larvae,10,1,4.478988774,4.478988774
+AXL007,A5,control,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,A5,control,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,A5,control,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,A5,control,Trichoptera,Arctopsyche grandis,212,larvae,10,2,3.400714523,6.801429046
+AXL007,A5,control,Trichoptera,Arctopsyche grandis,212,larvae,11,1,4.451056622,4.451056622
+AXL007,A5,control,Trichoptera,Arctopsyche grandis,212,larvae,24,1,40.29829973,40.29829973
+AXL007,A5,control,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,A5,control,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,A5,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,3,0.263714045,0.791142134
+AXL007,A5,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,A5,control,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,A5,control,Trichoptera,Hydropsyche oslari,139,larvae,6,1,0.803654364,0.803654364
+AXL007,A5,control,Trichoptera,Lepidostoma sp.,45,larvae,2,28,0.049551357,1.387437988
+AXL007,A5,control,Trichoptera,Lepidostoma sp.,45,larvae,3,1,0.14505119,0.14505119
+AXL007,A5,control,Trichoptera,Lepidostoma sp.,45,larvae,4,2,0.310802146,0.621604291
+AXL007,A6,CNZ_50,Diptera,Atherix pachypus,159,larvae,5,3,0.216938473,0.65081542
+AXL007,A6,CNZ_50,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,A6,CNZ_50,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,A6,CNZ_50,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,A6,CNZ_50,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,A6,CNZ_50,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,A6,CNZ_50,Ephemeroptera,Rhithrogena sp.,32,larvae,3,1,0.222543898,0.222543898
+AXL007,A6,CNZ_50,Ephemeroptera,Rhithrogena sp.,32,larvae,4,2,0.491469953,0.982939906
+AXL007,A6,CNZ_50,Plecoptera,Hesperoperla pacifica,14,larvae,11,1,9.858361403,9.858361403
+AXL007,A6,CNZ_50,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,A6,CNZ_50,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,A6,CNZ_50,Trichoptera,Arctopsyche grandis,212,larvae,11,1,4.451056622,4.451056622
+AXL007,A6,CNZ_50,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,A6,CNZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,5,3,0.164157988,0.492473963
+AXL007,A6,CNZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,6,3,0.263714045,0.791142134
+AXL007,A6,CNZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,7,4,0.393726742,1.574906966
+AXL007,A6,CNZ_50,Trichoptera,Brachycentrus occidentalis,134,larvae,8,2,0.557152361,1.114304721
+AXL007,A6,CNZ_50,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,A6,CNZ_50,Trichoptera,Lepidostoma sp.,45,larvae,2,2,0.049551357,0.099102713
+AXL007,A7,Cu_3,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,A7,Cu_3,Diptera,Atherix pachypus,159,larvae,10,1,1.391227001,1.391227001
+AXL007,A7,Cu_3,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,A7,Cu_3,Diptera,Atherix pachypus,159,larvae,12,5,2.268208212,11.34104106
+AXL007,A7,Cu_3,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,A7,Cu_3,Diptera,Atherix pachypus,159,larvae,14,11,3.428998235,37.71898058
+AXL007,A7,Cu_3,Diptera,Cladotanytarsus sp.,86,larvae,2,1,0.005416747,0.005416747
+AXL007,A7,Cu_3,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,2,1,0.005416747,0.005416747
+AXL007,A7,Cu_3,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,3,0.041915933,0.125747798
+AXL007,A7,Cu_3,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,A7,Cu_3,Diptera,Polypedilum sp.,90,larvae,3,1,0.017929162,0.017929162
+AXL007,A7,Cu_3,Diptera,Rheocricotopus sp.,112,larvae,4,1,0.12751271,0.12751271
+AXL007,A7,Cu_3,Diptera,Rheotanytarsus sp.,86,larvae,2,2,0.005416747,0.010833495
+AXL007,A7,Cu_3,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,A7,Cu_3,Ephemeroptera,Baetis tricaudatus,26,larvae,2,1,0.038880971,0.038880971
+AXL007,A7,Cu_3,Ephemeroptera,Baetis tricaudatus,26,larvae,3,9,0.124738201,1.122643811
+AXL007,A7,Cu_3,Ephemeroptera,Baetis tricaudatus,26,larvae,4,6,0.285232064,1.711392384
+AXL007,A7,Cu_3,Ephemeroptera,Baetis tricaudatus,26,larvae,5,2,0.5417696,1.0835392
+AXL007,A7,Cu_3,Ephemeroptera,Cinygmula sp.,30,larvae,2,1,0.072855168,0.072855168
+AXL007,A7,Cu_3,Ephemeroptera,Diphetor hageni,35,larvae,3,10,0.124738201,1.247382012
+AXL007,A7,Cu_3,Ephemeroptera,Diphetor hageni,35,larvae,4,2,0.285232064,0.570464128
+AXL007,A7,Cu_3,Ephemeroptera,Drunella doddsii,171,larvae,3,1,0.194811102,0.194811102
+AXL007,A7,Cu_3,Ephemeroptera,Drunella doddsii,171,larvae,4,1,0.420677962,0.420677962
+AXL007,A7,Cu_3,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,A7,Cu_3,Ephemeroptera,Drunella grandis,201,larvae,5,4,0.764330089,3.057320354
+AXL007,A7,Cu_3,Ephemeroptera,Drunella grandis,201,larvae,6,3,1.245001775,3.735005326
+AXL007,A7,Cu_3,Ephemeroptera,Drunella grandis,201,larvae,7,4,1.880700239,7.522800957
+AXL007,A7,Cu_3,Ephemeroptera,Ephemerella sp.,28,larvae,2,30,0.065825398,1.974761937
+AXL007,A7,Cu_3,Ephemeroptera,Ephemerella sp.,28,larvae,3,30,0.194811102,5.84433305
+AXL007,A7,Cu_3,Ephemeroptera,Ephemerella sp.,28,larvae,4,12,0.420677962,5.048135546
+AXL007,A7,Cu_3,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,A7,Cu_3,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,9,0.354430665,3.189875985
+AXL007,A7,Cu_3,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,3,0.578378468,1.735135404
+AXL007,A7,Cu_3,Ephemeroptera,Rhithrogena sp.,32,larvae,3,27,0.222543898,6.00868525
+AXL007,A7,Cu_3,Ephemeroptera,Rhithrogena sp.,32,larvae,4,38,0.491469953,18.67585822
+AXL007,A7,Cu_3,Ephemeroptera,Rhithrogena sp.,32,larvae,5,55,0.908630158,49.97465871
+AXL007,A7,Cu_3,Ephemeroptera,Rhithrogena sp.,32,larvae,6,15,1.501247506,22.5187126
+AXL007,A7,Cu_3,Ephemeroptera,Rhithrogena sp.,32,larvae,7,1,2.29521703,2.29521703
+AXL007,A7,Cu_3,Plecoptera,Isoperla fulva,165,larvae,5,1,1.617453572,1.617453572
+AXL007,A7,Cu_3,Plecoptera,Sweltsa sp.,11,larvae,7,2,1.303048011,2.606096022
+AXL007,A7,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,5,1,0.48024347,0.48024347
+AXL007,A7,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,A7,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,A7,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,11,1,4.451056622,4.451056622
+AXL007,A7,Cu_3,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,A7,Cu_3,Trichoptera,Brachycentrus occidentalis,134,larvae,5,4,0.164157988,0.656631951
+AXL007,A7,Cu_3,Trichoptera,Brachycentrus occidentalis,134,larvae,6,5,0.263714045,1.318570223
+AXL007,A7,Cu_3,Trichoptera,Brachycentrus occidentalis,134,larvae,7,4,0.393726742,1.574906966
+AXL007,A7,Cu_3,Trichoptera,Brachycentrus occidentalis,134,larvae,8,2,0.557152361,1.114304721
+AXL007,A7,Cu_3,Trichoptera,Hydropsyche cockerelli,139,larvae,4,1,0.255733482,0.255733482
+AXL007,A7,Cu_3,Trichoptera,Hydropsyche cockerelli,139,larvae,5,1,0.48024347,0.48024347
+AXL007,A7,Cu_3,Trichoptera,Hydropsyche cockerelli,139,larvae,9,1,2.525521225,2.525521225
+AXL007,A7,Cu_3,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,A7,Cu_3,Trichoptera,Lepidostoma sp.,45,larvae,2,42,0.049551357,2.081156981
+AXL007,A7,Cu_3,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,10,5,1.391227001,6.956135005
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,A8,Zn_400,Diptera,Atherix pachypus,159,larvae,14,1,3.428998235,3.428998235
+AXL007,A8,Zn_400,Ephemeroptera,Drunella doddsii,171,larvae,4,1,0.420677962,0.420677962
+AXL007,A8,Zn_400,Ephemeroptera,Drunella doddsii,171,larvae,5,2,0.764330089,1.528660177
+AXL007,A8,Zn_400,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,A8,Zn_400,Ephemeroptera,Drunella grandis,201,larvae,5,7,0.764330089,5.35031062
+AXL007,A8,Zn_400,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,A8,Zn_400,Ephemeroptera,Drunella grandis,201,larvae,7,2,1.880700239,3.761400478
+AXL007,A8,Zn_400,Ephemeroptera,Ephemerella sp.,28,larvae,2,1,0.065825398,0.065825398
+AXL007,A8,Zn_400,Ephemeroptera,Ephemerella sp.,28,larvae,3,9,0.194811102,1.753299915
+AXL007,A8,Zn_400,Ephemeroptera,Ephemerella sp.,28,larvae,4,4,0.420677962,1.682711849
+AXL007,A8,Zn_400,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,3,0.354430665,1.063291995
+AXL007,A8,Zn_400,Ephemeroptera,Rhithrogena sp.,32,larvae,3,26,0.222543898,5.786141351
+AXL007,A8,Zn_400,Ephemeroptera,Rhithrogena sp.,32,larvae,4,42,0.491469953,20.64173803
+AXL007,A8,Zn_400,Ephemeroptera,Rhithrogena sp.,32,larvae,5,35,0.908630158,31.80205555
+AXL007,A8,Zn_400,Ephemeroptera,Rhithrogena sp.,32,larvae,6,4,1.501247506,6.004990026
+AXL007,A8,Zn_400,Plecoptera,Isoperla fulva,165,larvae,6,1,2.666532,2.666532
+AXL007,A8,Zn_400,Plecoptera,Isoperla fulva,165,larvae,8,1,5.868523063,5.868523063
+AXL007,A8,Zn_400,Plecoptera,Sweltsa sp.,11,larvae,6,2,0.856243648,1.712487296
+AXL007,A8,Zn_400,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,A8,Zn_400,Trichoptera,Arctopsyche grandis,212,larvae,8,2,1.810907633,3.621815267
+AXL007,A8,Zn_400,Trichoptera,Arctopsyche grandis,212,larvae,11,1,4.451056622,4.451056622
+AXL007,A8,Zn_400,Trichoptera,Arctopsyche grandis,212,larvae,13,1,7.13421516,7.13421516
+AXL007,A8,Zn_400,Trichoptera,Brachycentrus americanus,134,larvae,3,2,0.043496596,0.086993192
+AXL007,A8,Zn_400,Trichoptera,Brachycentrus occidentalis,134,larvae,5,2,0.164157988,0.328315976
+AXL007,A8,Zn_400,Trichoptera,Brachycentrus occidentalis,134,larvae,6,4,0.263714045,1.054856179
+AXL007,A8,Zn_400,Trichoptera,Brachycentrus occidentalis,134,larvae,7,7,0.393726742,2.756087191
+AXL007,A8,Zn_400,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,A8,Zn_400,Trichoptera,Hydropsyche cockerelli,139,larvae,10,1,3.400714523,3.400714523
+AXL007,A8,Zn_400,Trichoptera,Lepidostoma sp.,45,larvae,2,43,0.049551357,2.130708338
+AXL007,A8,Zn_400,Trichoptera,Lepidostoma sp.,45,larvae,3,6,0.14505119,0.870307138
+AXL007,A9,NZ_12,Diptera,Atherix pachypus,159,larvae,4,1,0.119267148,0.119267148
+AXL007,A9,NZ_12,Diptera,Atherix pachypus,159,larvae,7,5,0.534694656,2.673473278
+AXL007,A9,NZ_12,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,A9,NZ_12,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,A9,NZ_12,Diptera,Atherix pachypus,159,larvae,11,3,1.796270704,5.388812111
+AXL007,A9,NZ_12,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,A9,NZ_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,2,0.041915933,0.083831865
+AXL007,A9,NZ_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,2,0.080994866,0.161989733
+AXL007,A9,NZ_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,6,1,0.13873963,0.13873963
+AXL007,A9,NZ_12,Diptera,Nanocladius sp.,116,larvae,3,1,0.065380122,0.065380122
+AXL007,A9,NZ_12,Diptera,Polypedilum sp.,90,larvae,6,1,0.13873963,0.13873963
+AXL007,A9,NZ_12,Diptera,Polypedilum sp.,90,larvae,7,1,0.21868926,0.21868926
+AXL007,A9,NZ_12,Diptera,Rheotanytarsus sp.,86,larvae,4,1,0.041915933,0.041915933
+AXL007,A9,NZ_12,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,A9,NZ_12,Diptera,Tvetenia sp.,118,larvae,5,1,0.214081198,0.214081198
+AXL007,A9,NZ_12,Ephemeroptera,Baetis tricaudatus,26,larvae,3,3,0.124738201,0.374214604
+AXL007,A9,NZ_12,Ephemeroptera,Baetis tricaudatus,26,larvae,4,2,0.285232064,0.570464128
+AXL007,A9,NZ_12,Ephemeroptera,Baetis tricaudatus,26,larvae,5,1,0.5417696,0.5417696
+AXL007,A9,NZ_12,Ephemeroptera,Diphetor hageni,35,larvae,2,1,0.038880971,0.038880971
+AXL007,A9,NZ_12,Ephemeroptera,Diphetor hageni,35,larvae,3,13,0.124738201,1.621596615
+AXL007,A9,NZ_12,Ephemeroptera,Drunella doddsii,171,larvae,3,3,0.194811102,0.584433305
+AXL007,A9,NZ_12,Ephemeroptera,Drunella doddsii,171,larvae,4,5,0.420677962,2.103389811
+AXL007,A9,NZ_12,Ephemeroptera,Drunella doddsii,171,larvae,5,2,0.764330089,1.528660177
+AXL007,A9,NZ_12,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,A9,NZ_12,Ephemeroptera,Drunella grandis,201,larvae,5,9,0.764330089,6.878970797
+AXL007,A9,NZ_12,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,A9,NZ_12,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,A9,NZ_12,Ephemeroptera,Ephemerella sp.,28,larvae,2,22,0.065825398,1.448158754
+AXL007,A9,NZ_12,Ephemeroptera,Ephemerella sp.,28,larvae,3,27,0.194811102,5.259899745
+AXL007,A9,NZ_12,Ephemeroptera,Ephemerella sp.,28,larvae,4,12,0.420677962,5.048135546
+AXL007,A9,NZ_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,A9,NZ_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,5,0.194639506,0.973197532
+AXL007,A9,NZ_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,A9,NZ_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,A9,NZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,A9,NZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,3,18,0.222543898,4.005790166
+AXL007,A9,NZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,4,54,0.491469953,26.53937747
+AXL007,A9,NZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,5,37,0.908630158,33.61931586
+AXL007,A9,NZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,6,3,1.501247506,4.503742519
+AXL007,A9,NZ_12,Plecoptera,Claassenia sabulosa,138,larvae,3,1,0.234027712,0.234027712
+AXL007,A9,NZ_12,Plecoptera,Hesperoperla pacifica,14,larvae,2,1,0.072828364,0.072828364
+AXL007,A9,NZ_12,Plecoptera,Isoperla fulva,165,larvae,5,2,1.617453572,3.234907143
+AXL007,A9,NZ_12,Plecoptera,Skwala americana,16,larvae,12,1,17.83902228,17.83902228
+AXL007,A9,NZ_12,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,A9,NZ_12,Trichoptera,Arctopsyche grandis,212,larvae,10,3,3.400714523,10.20214357
+AXL007,A9,NZ_12,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,A9,NZ_12,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,A9,NZ_12,Trichoptera,Brachycentrus occidentalis,134,larvae,5,2,0.164157988,0.328315976
+AXL007,A9,NZ_12,Trichoptera,Brachycentrus occidentalis,134,larvae,6,4,0.263714045,1.054856179
+AXL007,A9,NZ_12,Trichoptera,Brachycentrus occidentalis,134,larvae,7,8,0.393726742,3.149813933
+AXL007,A9,NZ_12,Trichoptera,Brachycentrus occidentalis,134,larvae,9,1,0.756781546,0.756781546
+AXL007,A9,NZ_12,Trichoptera,Hydropsyche cockerelli,139,larvae,7,1,1.242015573,1.242015573
+AXL007,A9,NZ_12,Trichoptera,Hydropsyche oslari,139,larvae,4,2,0.255733482,0.511466964
+AXL007,A9,NZ_12,Trichoptera,Hydropsyche oslari,139,larvae,5,5,0.48024347,2.40121735
+AXL007,A9,NZ_12,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,A9,NZ_12,Trichoptera,Lepidostoma sp.,45,larvae,2,45,0.049551357,2.229811051
+AXL007,A9,NZ_12,Trichoptera,Lepidostoma sp.,45,larvae,3,8,0.14505119,1.160409517
+AXL007,A9,NZ_12,Trichoptera,Lepidostoma sp.,45,larvae,4,2,0.310802146,0.621604291
+AXL007,B1,Zn_1600,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,B1,Zn_1600,Diptera,Atherix pachypus,159,larvae,8,3,0.764860535,2.294581606
+AXL007,B1,Zn_1600,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,B1,Zn_1600,Diptera,Atherix pachypus,159,larvae,10,1,1.391227001,1.391227001
+AXL007,B1,Zn_1600,Diptera,Atherix pachypus,159,larvae,13,2,2.811124793,5.622249585
+AXL007,B1,Zn_1600,Diptera,Brillia sp.,103,larvae,3,1,0.065380122,0.065380122
+AXL007,B1,Zn_1600,Diptera,Thienemannimyia group,83,larvae,3,1,0.053718384,0.053718384
+AXL007,B1,Zn_1600,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,B1,Zn_1600,Ephemeroptera,Drunella grandis,201,larvae,5,2,0.764330089,1.528660177
+AXL007,B1,Zn_1600,Ephemeroptera,Ephemerella sp.,28,larvae,2,1,0.065825398,0.065825398
+AXL007,B1,Zn_1600,Ephemeroptera,Ephemerella sp.,28,larvae,4,1,0.420677962,0.420677962
+AXL007,B1,Zn_1600,Ephemeroptera,Rhithrogena sp.,32,larvae,2,5,0.072855168,0.36427584
+AXL007,B1,Zn_1600,Ephemeroptera,Rhithrogena sp.,32,larvae,3,15,0.222543898,3.338158472
+AXL007,B1,Zn_1600,Ephemeroptera,Rhithrogena sp.,32,larvae,4,27,0.491469953,13.26968873
+AXL007,B1,Zn_1600,Ephemeroptera,Rhithrogena sp.,32,larvae,5,16,0.908630158,14.53808253
+AXL007,B1,Zn_1600,Ephemeroptera,Rhithrogena sp.,32,larvae,6,2,1.501247506,3.002495013
+AXL007,B1,Zn_1600,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,B1,Zn_1600,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,B1,Zn_1600,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,B1,Zn_1600,Trichoptera,Brachycentrus occidentalis,134,larvae,6,2,0.263714045,0.527428089
+AXL007,B1,Zn_1600,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,B1,Zn_1600,Trichoptera,Lepidostoma sp.,45,larvae,2,25,0.049551357,1.238783917
+AXL007,B1,Zn_1600,Trichoptera,Lepidostoma sp.,45,larvae,3,1,0.14505119,0.14505119
+AXL007,B1,Zn_1600,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,4,1,0.119267148,0.119267148
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,5,2,0.216938473,0.433876947
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,7,3,0.534694656,1.604083967
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,8,2,0.764860535,1.52972107
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,10,4,1.391227001,5.564908004
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,B2,Cu_25,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,B2,Cu_25,Diptera,Eukiefferiella sp.,120,larvae,4,1,0.12751271,0.12751271
+AXL007,B2,Cu_25,Ephemeroptera,Baetis tricaudatus,26,larvae,3,1,0.124738201,0.124738201
+AXL007,B2,Cu_25,Ephemeroptera,Drunella doddsii,171,larvae,4,3,0.420677962,1.262033887
+AXL007,B2,Cu_25,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,B2,Cu_25,Ephemeroptera,Drunella grandis,201,larvae,5,2,0.764330089,1.528660177
+AXL007,B2,Cu_25,Ephemeroptera,Drunella grandis,201,larvae,6,3,1.245001775,3.735005326
+AXL007,B2,Cu_25,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,B2,Cu_25,Ephemeroptera,Ephemerella sp.,28,larvae,2,2,0.065825398,0.131650796
+AXL007,B2,Cu_25,Ephemeroptera,Ephemerella sp.,28,larvae,3,6,0.194811102,1.16886661
+AXL007,B2,Cu_25,Ephemeroptera,Ephemerella sp.,28,larvae,4,1,0.420677962,0.420677962
+AXL007,B2,Cu_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,B2,Cu_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,3,0.194639506,0.583918519
+AXL007,B2,Cu_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,4,0.354430665,1.41772266
+AXL007,B2,Cu_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,1,0.578378468,0.578378468
+AXL007,B2,Cu_25,Ephemeroptera,Rhithrogena sp.,32,larvae,2,2,0.072855168,0.145710336
+AXL007,B2,Cu_25,Ephemeroptera,Rhithrogena sp.,32,larvae,3,25,0.222543898,5.563597453
+AXL007,B2,Cu_25,Ephemeroptera,Rhithrogena sp.,32,larvae,4,52,0.491469953,25.55643756
+AXL007,B2,Cu_25,Ephemeroptera,Rhithrogena sp.,32,larvae,5,38,0.908630158,34.52794602
+AXL007,B2,Cu_25,Ephemeroptera,Rhithrogena sp.,32,larvae,6,3,1.501247506,4.503742519
+AXL007,B2,Cu_25,Plecoptera,Isoperla fulva,165,larvae,5,1,1.617453572,1.617453572
+AXL007,B2,Cu_25,Plecoptera,Isoperla fulva,165,larvae,6,1,2.666532,2.666532
+AXL007,B2,Cu_25,Plecoptera,Sweltsa sp.,11,larvae,7,2,1.303048011,2.606096022
+AXL007,B2,Cu_25,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,B2,Cu_25,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,B2,Cu_25,Trichoptera,Brachycentrus occidentalis,134,larvae,5,4,0.164157988,0.656631951
+AXL007,B2,Cu_25,Trichoptera,Brachycentrus occidentalis,134,larvae,6,7,0.263714045,1.845998312
+AXL007,B2,Cu_25,Trichoptera,Brachycentrus occidentalis,134,larvae,7,4,0.393726742,1.574906966
+AXL007,B2,Cu_25,Trichoptera,Brachycentrus occidentalis,134,larvae,8,4,0.557152361,2.228609442
+AXL007,B2,Cu_25,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,B2,Cu_25,Trichoptera,Lepidostoma sp.,45,larvae,2,56,0.049551357,2.774875975
+AXL007,B3,NZ_25,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,B3,NZ_25,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,B3,NZ_25,Diptera,Atherix pachypus,159,larvae,8,4,0.764860535,3.059442141
+AXL007,B3,NZ_25,Diptera,Atherix pachypus,159,larvae,9,4,1.048871212,4.195484849
+AXL007,B3,NZ_25,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,B3,NZ_25,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,B3,NZ_25,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,2,0.041915933,0.083831865
+AXL007,B3,NZ_25,Diptera,Rheotanytarsus sp.,86,larvae,3,1,0.017929162,0.017929162
+AXL007,B3,NZ_25,Ephemeroptera,Ameletus sp.,24,larvae,3,1,0.131058008,0.131058008
+AXL007,B3,NZ_25,Ephemeroptera,Ameletus sp.,24,larvae,4,1,0.275299551,0.275299551
+AXL007,B3,NZ_25,Ephemeroptera,Baetis tricaudatus,26,larvae,2,1,0.038880971,0.038880971
+AXL007,B3,NZ_25,Ephemeroptera,Baetis tricaudatus,26,larvae,3,3,0.124738201,0.374214604
+AXL007,B3,NZ_25,Ephemeroptera,Baetis tricaudatus,26,larvae,4,3,0.285232064,0.855696192
+AXL007,B3,NZ_25,Ephemeroptera,Baetis tricaudatus,26,larvae,6,1,0.915083479,0.915083479
+AXL007,B3,NZ_25,Ephemeroptera,Diphetor hageni,35,larvae,3,3,0.124738201,0.374214604
+AXL007,B3,NZ_25,Ephemeroptera,Diphetor hageni,35,larvae,4,1,0.285232064,0.285232064
+AXL007,B3,NZ_25,Ephemeroptera,Drunella doddsii,171,larvae,3,3,0.194811102,0.584433305
+AXL007,B3,NZ_25,Ephemeroptera,Drunella doddsii,171,larvae,4,5,0.420677962,2.103389811
+AXL007,B3,NZ_25,Ephemeroptera,Drunella grandis,201,larvae,5,3,0.764330089,2.292990266
+AXL007,B3,NZ_25,Ephemeroptera,Ephemerella sp.,28,larvae,2,10,0.065825398,0.658253979
+AXL007,B3,NZ_25,Ephemeroptera,Ephemerella sp.,28,larvae,3,9,0.194811102,1.753299915
+AXL007,B3,NZ_25,Ephemeroptera,Ephemerella sp.,28,larvae,4,5,0.420677962,2.103389811
+AXL007,B3,NZ_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,B3,NZ_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,B3,NZ_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,3,0.578378468,1.735135404
+AXL007,B3,NZ_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,7,1,0.875046624,0.875046624
+AXL007,B3,NZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,B3,NZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,3,21,0.222543898,4.673421861
+AXL007,B3,NZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,4,56,0.491469953,27.52231737
+AXL007,B3,NZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,5,44,0.908630158,39.97972697
+AXL007,B3,NZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,6,2,1.501247506,3.002495013
+AXL007,B3,NZ_25,Plecoptera,Diura knowltoni,168,larvae,11,1,14.05253948,14.05253948
+AXL007,B3,NZ_25,Plecoptera,Sweltsa sp.,11,larvae,8,1,1.874694396,1.874694396
+AXL007,B3,NZ_25,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,B3,NZ_25,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,B3,NZ_25,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,B3,NZ_25,Trichoptera,Brachycentrus occidentalis,134,larvae,6,1,0.263714045,0.263714045
+AXL007,B3,NZ_25,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,B3,NZ_25,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,B3,NZ_25,Trichoptera,Lepidostoma sp.,45,larvae,2,30,0.049551357,1.486540701
+AXL007,B3,NZ_25,Trichoptera,Lepidostoma sp.,45,larvae,3,3,0.14505119,0.435153569
+AXL007,B4,CNZ_3,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,B4,CNZ_3,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,B4,CNZ_3,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,B4,CNZ_3,Diptera,Atherix pachypus,159,larvae,8,3,0.764860535,2.294581606
+AXL007,B4,CNZ_3,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,B4,CNZ_3,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,B4,CNZ_3,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,B4,CNZ_3,Diptera,Cladotanytarsus sp.,86,larvae,2,1,0.005416747,0.005416747
+AXL007,B4,CNZ_3,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,B4,CNZ_3,Diptera,Polypedilum sp.,90,larvae,4,1,0.041915933,0.041915933
+AXL007,B4,CNZ_3,Diptera,Thienemannimyia group,83,larvae,2,1,0.020210028,0.020210028
+AXL007,B4,CNZ_3,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,B4,CNZ_3,Ephemeroptera,Baetis tricaudatus,26,larvae,3,2,0.124738201,0.249476402
+AXL007,B4,CNZ_3,Ephemeroptera,Baetis tricaudatus,26,larvae,4,6,0.285232064,1.711392384
+AXL007,B4,CNZ_3,Ephemeroptera,Baetis tricaudatus,26,larvae,5,2,0.5417696,1.0835392
+AXL007,B4,CNZ_3,Ephemeroptera,Diphetor hageni,35,larvae,4,10,0.285232064,2.852320641
+AXL007,B4,CNZ_3,Ephemeroptera,Drunella doddsii,171,larvae,3,1,0.194811102,0.194811102
+AXL007,B4,CNZ_3,Ephemeroptera,Drunella doddsii,171,larvae,4,5,0.420677962,2.103389811
+AXL007,B4,CNZ_3,Ephemeroptera,Drunella grandis,201,larvae,5,2,0.764330089,1.528660177
+AXL007,B4,CNZ_3,Ephemeroptera,Drunella grandis,201,larvae,6,3,1.245001775,3.735005326
+AXL007,B4,CNZ_3,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,B4,CNZ_3,Ephemeroptera,Ephemerella sp.,28,larvae,2,5,0.065825398,0.32912699
+AXL007,B4,CNZ_3,Ephemeroptera,Ephemerella sp.,28,larvae,3,10,0.194811102,1.948111017
+AXL007,B4,CNZ_3,Ephemeroptera,Ephemerella sp.,28,larvae,4,3,0.420677962,1.262033887
+AXL007,B4,CNZ_3,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,2,0.194639506,0.389279013
+AXL007,B4,CNZ_3,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,B4,CNZ_3,Ephemeroptera,Rhithrogena sp.,32,larvae,3,11,0.222543898,2.447982879
+AXL007,B4,CNZ_3,Ephemeroptera,Rhithrogena sp.,32,larvae,4,53,0.491469953,26.04790751
+AXL007,B4,CNZ_3,Ephemeroptera,Rhithrogena sp.,32,larvae,5,59,0.908630158,53.60917935
+AXL007,B4,CNZ_3,Ephemeroptera,Rhithrogena sp.,32,larvae,6,16,1.501247506,24.0199601
+AXL007,B4,CNZ_3,Plecoptera,Diura knowltoni,168,larvae,9,1,8.10567212,8.10567212
+AXL007,B4,CNZ_3,Plecoptera,Isoperla fulva,165,larvae,5,1,1.617453572,1.617453572
+AXL007,B4,CNZ_3,Plecoptera,Isoperla fulva,165,larvae,6,1,2.666532,2.666532
+AXL007,B4,CNZ_3,Trichoptera,Arctopsyche grandis,212,larvae,9,2,2.525521225,5.05104245
+AXL007,B4,CNZ_3,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,B4,CNZ_3,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,B4,CNZ_3,Trichoptera,Brachycentrus occidentalis,134,larvae,8,2,0.557152361,1.114304721
+AXL007,B4,CNZ_3,Trichoptera,Hydropsyche oslari,139,larvae,6,1,0.803654364,0.803654364
+AXL007,B4,CNZ_3,Trichoptera,Lepidostoma sp.,45,larvae,2,42,0.049551357,2.081156981
+AXL007,B4,CNZ_3,Trichoptera,Lepidostoma sp.,45,larvae,3,6,0.14505119,0.870307138
+AXL007,B5,CNZ_25,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,B5,CNZ_25,Diptera,Atherix pachypus,159,larvae,4,1,0.119267148,0.119267148
+AXL007,B5,CNZ_25,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,B5,CNZ_25,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,B5,CNZ_25,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,B5,CNZ_25,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,B5,CNZ_25,Diptera,Atherix pachypus,159,larvae,11,3,1.796270704,5.388812111
+AXL007,B5,CNZ_25,Diptera,Dicranota sp.,68,larvae,4,1,0.119267148,0.119267148
+AXL007,B5,CNZ_25,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,B5,CNZ_25,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,1,0.041915933,0.041915933
+AXL007,B5,CNZ_25,Diptera,Tvetenia sp.,118,larvae,2,1,0.025501271,0.025501271
+AXL007,B5,CNZ_25,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,B5,CNZ_25,Ephemeroptera,Drunella grandis,201,larvae,5,2,0.764330089,1.528660177
+AXL007,B5,CNZ_25,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,B5,CNZ_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,1,0.354430665,0.354430665
+AXL007,B5,CNZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,3,1,0.222543898,0.222543898
+AXL007,B5,CNZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,4,8,0.491469953,3.931759625
+AXL007,B5,CNZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,5,14,0.908630158,12.72082222
+AXL007,B5,CNZ_25,Ephemeroptera,Rhithrogena sp.,32,larvae,6,3,1.501247506,4.503742519
+AXL007,B5,CNZ_25,Plecoptera,Pteronarcella badia,223,larvae,11,1,5.874111194,5.874111194
+AXL007,B5,CNZ_25,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,B5,CNZ_25,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,B5,CNZ_25,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,B5,CNZ_25,Trichoptera,Brachycentrus occidentalis,134,larvae,5,3,0.164157988,0.492473963
+AXL007,B5,CNZ_25,Trichoptera,Brachycentrus occidentalis,134,larvae,6,5,0.263714045,1.318570223
+AXL007,B5,CNZ_25,Trichoptera,Brachycentrus occidentalis,134,larvae,7,3,0.393726742,1.181180225
+AXL007,B5,CNZ_25,Trichoptera,Hydropsyche cockerelli,139,larvae,7,1,1.242015573,1.242015573
+AXL007,B5,CNZ_25,Trichoptera,Lepidostoma sp.,45,larvae,2,61,0.049551357,3.022632759
+AXL007,B5,CNZ_25,Trichoptera,Lepidostoma sp.,45,larvae,3,1,0.14505119,0.14505119
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,8,3,0.764860535,2.294581606
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,14,1,3.428998235,3.428998235
+AXL007,B6,Cu_6,Diptera,Atherix pachypus,159,larvae,16,1,4.905052628,4.905052628
+AXL007,B6,Cu_6,Diptera,Heterotrissocladius sp.,110,larvae,5,1,0.214081198,0.214081198
+AXL007,B6,Cu_6,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,3,0.017929162,0.053787485
+AXL007,B6,Cu_6,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,4,0.041915933,0.167663731
+AXL007,B6,Cu_6,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,B6,Cu_6,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,6,1,0.13873963,0.13873963
+AXL007,B6,Cu_6,Diptera,Polypedilum sp.,90,larvae,3,1,0.017929162,0.017929162
+AXL007,B6,Cu_6,Diptera,Polypedilum sp.,90,larvae,4,2,0.041915933,0.083831865
+AXL007,B6,Cu_6,Diptera,Polypedilum sp.,90,larvae,5,2,0.080994866,0.161989733
+AXL007,B6,Cu_6,Diptera,Rheocricotopus sp.,112,larvae,3,1,0.065380122,0.065380122
+AXL007,B6,Cu_6,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,B6,Cu_6,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,B6,Cu_6,Ephemeroptera,Baetis tricaudatus,26,larvae,2,1,0.038880971,0.038880971
+AXL007,B6,Cu_6,Ephemeroptera,Baetis tricaudatus,26,larvae,3,1,0.124738201,0.124738201
+AXL007,B6,Cu_6,Ephemeroptera,Baetis tricaudatus,26,larvae,4,1,0.285232064,0.285232064
+AXL007,B6,Cu_6,Ephemeroptera,Diphetor hageni,35,larvae,3,14,0.124738201,1.746334817
+AXL007,B6,Cu_6,Ephemeroptera,Diphetor hageni,35,larvae,4,3,0.285232064,0.855696192
+AXL007,B6,Cu_6,Ephemeroptera,Drunella doddsii,171,larvae,4,1,0.420677962,0.420677962
+AXL007,B6,Cu_6,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,B6,Cu_6,Ephemeroptera,Drunella grandis,201,larvae,5,1,0.764330089,0.764330089
+AXL007,B6,Cu_6,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,B6,Cu_6,Ephemeroptera,Epeorus longimanus,31,larvae,2,4,0.072855168,0.291420672
+AXL007,B6,Cu_6,Ephemeroptera,Ephemerella sp.,28,larvae,2,21,0.065825398,1.382333356
+AXL007,B6,Cu_6,Ephemeroptera,Ephemerella sp.,28,larvae,3,32,0.194811102,6.233955254
+AXL007,B6,Cu_6,Ephemeroptera,Ephemerella sp.,28,larvae,4,10,0.420677962,4.206779622
+AXL007,B6,Cu_6,Ephemeroptera,Ephemerella sp.,28,larvae,5,3,0.764330089,2.292990266
+AXL007,B6,Cu_6,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,B6,Cu_6,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,B6,Cu_6,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,B6,Cu_6,Ephemeroptera,Rhithrogena sp.,32,larvae,3,15,0.222543898,3.338158472
+AXL007,B6,Cu_6,Ephemeroptera,Rhithrogena sp.,32,larvae,4,35,0.491469953,17.20144836
+AXL007,B6,Cu_6,Ephemeroptera,Rhithrogena sp.,32,larvae,5,30,0.908630158,27.25890475
+AXL007,B6,Cu_6,Ephemeroptera,Rhithrogena sp.,32,larvae,6,13,1.501247506,19.51621758
+AXL007,B6,Cu_6,Ephemeroptera,Rhithrogena sp.,32,larvae,7,1,2.29521703,2.29521703
+AXL007,B6,Cu_6,Planariidae,Polycelis coronata,207,larvae,3,1,0.062647038,0.062647038
+AXL007,B6,Cu_6,Plecoptera,Isoperla fulva,165,larvae,6,1,2.666532,2.666532
+AXL007,B6,Cu_6,Plecoptera,Skwala americana,16,larvae,13,1,22.21717027,22.21717027
+AXL007,B6,Cu_6,Plecoptera,Skwala americana,16,larvae,14,1,27.22319821,27.22319821
+AXL007,B6,Cu_6,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,B6,Cu_6,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,B6,Cu_6,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,B6,Cu_6,Trichoptera,Brachycentrus occidentalis,134,larvae,5,2,0.164157988,0.328315976
+AXL007,B6,Cu_6,Trichoptera,Brachycentrus occidentalis,134,larvae,6,8,0.263714045,2.109712357
+AXL007,B6,Cu_6,Trichoptera,Brachycentrus occidentalis,134,larvae,7,6,0.393726742,2.36236045
+AXL007,B6,Cu_6,Trichoptera,Brachycentrus occidentalis,134,larvae,8,3,0.557152361,1.671457082
+AXL007,B6,Cu_6,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,B6,Cu_6,Trichoptera,Lepidostoma sp.,45,larvae,2,29,0.049551357,1.436989344
+AXL007,B6,Cu_6,Trichoptera,Lepidostoma sp.,45,larvae,3,10,0.14505119,1.450511896
+AXL007,B7,control,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,B7,control,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,B7,control,Diptera,Atherix pachypus,159,larvae,10,1,1.391227001,1.391227001
+AXL007,B7,control,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,B7,control,Diptera,Cricotopus/Orthocladius sp.,117,larvae,3,1,0.065380122,0.065380122
+AXL007,B7,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,2,1,0.005416747,0.005416747
+AXL007,B7,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,4,0.017929162,0.071716647
+AXL007,B7,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,3,0.041915933,0.125747798
+AXL007,B7,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,8,1,0.324354316,0.324354316
+AXL007,B7,control,Diptera,Parametriocnemus sp. pupae,109,pupae,4,1,0.12751271,0.12751271
+AXL007,B7,control,Diptera,Polypedilum sp.,90,larvae,3,1,0.017929162,0.017929162
+AXL007,B7,control,Diptera,Rheotanytarsus sp.,86,larvae,4,1,0.041915933,0.041915933
+AXL007,B7,control,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,B7,control,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,B7,control,Ephemeroptera,Ameletus sp.,24,larvae,4,1,0.275299551,0.275299551
+AXL007,B7,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,2,0.124738201,0.249476402
+AXL007,B7,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,4,0.285232064,1.140928256
+AXL007,B7,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,4,0.5417696,2.1670784
+AXL007,B7,control,Ephemeroptera,Diphetor hageni,35,larvae,3,9,0.124738201,1.122643811
+AXL007,B7,control,Ephemeroptera,Diphetor hageni,35,larvae,4,2,0.285232064,0.570464128
+AXL007,B7,control,Ephemeroptera,Drunella doddsii,171,larvae,3,4,0.194811102,0.779244407
+AXL007,B7,control,Ephemeroptera,Drunella doddsii,171,larvae,4,2,0.420677962,0.841355924
+AXL007,B7,control,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,B7,control,Ephemeroptera,Drunella grandis,201,larvae,5,4,0.764330089,3.057320354
+AXL007,B7,control,Ephemeroptera,Drunella grandis,201,larvae,6,2,1.245001775,2.490003551
+AXL007,B7,control,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,B7,control,Ephemeroptera,Drunella grandis,201,larvae,8,1,2.688475171,2.688475171
+AXL007,B7,control,Ephemeroptera,Epeorus longimanus,31,larvae,2,1,0.072855168,0.072855168
+AXL007,B7,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,33,0.065825398,2.172238131
+AXL007,B7,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,32,0.194811102,6.233955254
+AXL007,B7,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,10,0.420677962,4.206779622
+AXL007,B7,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,B7,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,7,0.354430665,2.481014655
+AXL007,B7,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,B7,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,25,0.222543898,5.563597453
+AXL007,B7,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,66,0.491469953,32.4370169
+AXL007,B7,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,36,0.908630158,32.7106857
+AXL007,B7,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,1,1.501247506,1.501247506
+AXL007,B7,control,Plecoptera,Hesperoperla pacifica,14,larvae,4,1,0.535754601,0.535754601
+AXL007,B7,control,Plecoptera,Pteronarcella badia,223,larvae,7,1,1.623618151,1.623618151
+AXL007,B7,control,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,B7,control,Trichoptera,Arctopsyche grandis,212,larvae,9,2,2.525521225,5.05104245
+AXL007,B7,control,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,B7,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,3,0.263714045,0.791142134
+AXL007,B7,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,3,0.393726742,1.181180225
+AXL007,B7,control,Trichoptera,Hydropsyche oslari,139,larvae,5,1,0.48024347,0.48024347
+AXL007,B7,control,Trichoptera,Lepidostoma sp.,45,larvae,1,3,0.0079,0.0237
+AXL007,B7,control,Trichoptera,Lepidostoma sp.,45,larvae,2,44,0.049551357,2.180259695
+AXL007,B7,control,Trichoptera,Lepidostoma sp.,45,larvae,3,2,0.14505119,0.290102379
+AXL007,B7,control,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,8,2,0.764860535,1.52972107
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,10,1,1.391227001,1.391227001
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,12,3,2.268208212,6.804624637
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,13,5,2.811124793,14.05562396
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,14,1,3.428998235,3.428998235
+AXL007,B8,Zn_100,Diptera,Atherix pachypus,159,larvae,15,2,4.125709674,8.251419348
+AXL007,B8,Zn_100,Diptera,Cladotanytarsus sp.,86,larvae,3,1,0.017929162,0.017929162
+AXL007,B8,Zn_100,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,B8,Zn_100,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,1,0.041915933,0.041915933
+AXL007,B8,Zn_100,Diptera,Potthastia sp.,,larvae,4,1,0.041915933,0.041915933
+AXL007,B8,Zn_100,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,B8,Zn_100,Diptera,Tvetenia sp. pupae,118,pupae,3,1,0.065380122,0.065380122
+AXL007,B8,Zn_100,Ephemeroptera,Ameletus sp.,24,larvae,3,1,0.131058008,0.131058008
+AXL007,B8,Zn_100,Ephemeroptera,Ameletus sp.,24,larvae,4,2,0.275299551,0.550599102
+AXL007,B8,Zn_100,Ephemeroptera,Baetis tricaudatus,26,larvae,3,1,0.124738201,0.124738201
+AXL007,B8,Zn_100,Ephemeroptera,Baetis tricaudatus,26,larvae,4,4,0.285232064,1.140928256
+AXL007,B8,Zn_100,Ephemeroptera,Baetis tricaudatus,26,larvae,5,1,0.5417696,0.5417696
+AXL007,B8,Zn_100,Ephemeroptera,Baetis tricaudatus,26,larvae,6,1,0.915083479,0.915083479
+AXL007,B8,Zn_100,Ephemeroptera,Diphetor hageni,35,larvae,2,1,0.038880971,0.038880971
+AXL007,B8,Zn_100,Ephemeroptera,Diphetor hageni,35,larvae,3,6,0.124738201,0.748429207
+AXL007,B8,Zn_100,Ephemeroptera,Diphetor hageni,35,larvae,4,3,0.285232064,0.855696192
+AXL007,B8,Zn_100,Ephemeroptera,Drunella doddsii,171,larvae,4,7,0.420677962,2.944745735
+AXL007,B8,Zn_100,Ephemeroptera,Drunella doddsii,171,larvae,5,2,0.764330089,1.528660177
+AXL007,B8,Zn_100,Ephemeroptera,Drunella grandis,201,larvae,5,3,0.764330089,2.292990266
+AXL007,B8,Zn_100,Ephemeroptera,Drunella grandis,201,larvae,6,4,1.245001775,4.980007101
+AXL007,B8,Zn_100,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,B8,Zn_100,Ephemeroptera,Ephemerella sp.,28,larvae,2,6,0.065825398,0.394952387
+AXL007,B8,Zn_100,Ephemeroptera,Ephemerella sp.,28,larvae,3,6,0.194811102,1.16886661
+AXL007,B8,Zn_100,Ephemeroptera,Ephemerella sp.,28,larvae,4,6,0.420677962,2.524067773
+AXL007,B8,Zn_100,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,3,0.194639506,0.583918519
+AXL007,B8,Zn_100,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,5,0.354430665,1.772153325
+AXL007,B8,Zn_100,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,B8,Zn_100,Ephemeroptera,Rhithrogena sp.,32,larvae,3,11,0.222543898,2.447982879
+AXL007,B8,Zn_100,Ephemeroptera,Rhithrogena sp.,32,larvae,4,50,0.491469953,24.57349765
+AXL007,B8,Zn_100,Ephemeroptera,Rhithrogena sp.,32,larvae,5,44,0.908630158,39.97972697
+AXL007,B8,Zn_100,Ephemeroptera,Rhithrogena sp.,32,larvae,6,4,1.501247506,6.004990026
+AXL007,B8,Zn_100,Ephemeroptera,Rhithrogena sp.,32,larvae,7,1,2.29521703,2.29521703
+AXL007,B8,Zn_100,Plecoptera,Diura knowltoni,168,larvae,10,1,10.82071781,10.82071781
+AXL007,B8,Zn_100,Plecoptera,Hesperoperla pacifica,14,larvae,3,1,0.234027712,0.234027712
+AXL007,B8,Zn_100,Plecoptera,Hesperoperla pacifica,14,larvae,5,1,1.018520647,1.018520647
+AXL007,B8,Zn_100,Plecoptera,Isoperla fulva,165,larvae,6,1,2.666532,2.666532
+AXL007,B8,Zn_100,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,B8,Zn_100,Trichoptera,Arctopsyche grandis,212,larvae,6,1,0.803654364,0.803654364
+AXL007,B8,Zn_100,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,B8,Zn_100,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,B8,Zn_100,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,B8,Zn_100,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,B8,Zn_100,Trichoptera,Brachycentrus occidentalis,134,larvae,6,3,0.263714045,0.791142134
+AXL007,B8,Zn_100,Trichoptera,Brachycentrus occidentalis,134,larvae,7,6,0.393726742,2.36236045
+AXL007,B8,Zn_100,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,B8,Zn_100,Trichoptera,Lepidostoma sp.,45,larvae,2,42,0.049551357,2.081156981
+AXL007,B8,Zn_100,Trichoptera,Lepidostoma sp.,45,larvae,3,3,0.14505119,0.435153569
+AXL007,B8,Zn_100,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,B9,Ni_50,Acari,Hygrobates sp.,,larvae,1,1,0,0
+AXL007,B9,Ni_50,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,B9,Ni_50,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,B9,Ni_50,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,B9,Ni_50,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,B9,Ni_50,Diptera,Cladotanytarsus sp.,86,larvae,3,1,0.179291617,0.179291617
+AXL007,B9,Ni_50,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,1,0.041915933,0.041915933
+AXL007,B9,Ni_50,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,6,1,0.13873963,0.13873963
+AXL007,B9,Ni_50,Diptera,Nanocladius sp.,116,larvae,3,1,0.065380122,0.065380122
+AXL007,B9,Ni_50,Diptera,Polypedilum sp.,90,larvae,5,1,0.080994866,0.080994866
+AXL007,B9,Ni_50,Ephemeroptera,Baetis tricaudatus,26,larvae,3,2,0.124738201,0.249476402
+AXL007,B9,Ni_50,Ephemeroptera,Baetis tricaudatus,26,larvae,4,2,0.285232064,0.570464128
+AXL007,B9,Ni_50,Ephemeroptera,Baetis tricaudatus,26,larvae,5,1,0.5417696,0.5417696
+AXL007,B9,Ni_50,Ephemeroptera,Diphetor hageni,35,larvae,2,1,0.038880971,0.038880971
+AXL007,B9,Ni_50,Ephemeroptera,Diphetor hageni,35,larvae,3,3,0.124738201,0.374214604
+AXL007,B9,Ni_50,Ephemeroptera,Drunella grandis,201,larvae,5,7,0.764330089,5.35031062
+AXL007,B9,Ni_50,Ephemeroptera,Drunella grandis,201,larvae,6,2,1.245001775,2.490003551
+AXL007,B9,Ni_50,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,B9,Ni_50,Ephemeroptera,Ephemerella sp.,28,larvae,2,8,0.065825398,0.526603183
+AXL007,B9,Ni_50,Ephemeroptera,Ephemerella sp.,28,larvae,3,11,0.194811102,2.142922118
+AXL007,B9,Ni_50,Ephemeroptera,Ephemerella sp.,28,larvae,4,4,0.420677962,1.682711849
+AXL007,B9,Ni_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,2,0.089876375,0.17975275
+AXL007,B9,Ni_50,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,3,0.354430665,1.063291995
+AXL007,B9,Ni_50,Ephemeroptera,Rhithrogena sp.,32,larvae,3,21,0.222543898,4.673421861
+AXL007,B9,Ni_50,Ephemeroptera,Rhithrogena sp.,32,larvae,4,42,0.491469953,20.64173803
+AXL007,B9,Ni_50,Ephemeroptera,Rhithrogena sp.,32,larvae,5,42,0.908630158,38.16246665
+AXL007,B9,Ni_50,Ephemeroptera,Rhithrogena sp.,32,larvae,6,4,1.501247506,6.004990026
+AXL007,B9,Ni_50,Plecoptera,Diura knowltoni,168,larvae,9,1,8.10567212,8.10567212
+AXL007,B9,Ni_50,Plecoptera,Hesperoperla pacifica,14,larvae,3,1,0.234027712,0.234027712
+AXL007,B9,Ni_50,Plecoptera,Pteronarcella badia,223,larvae,9,1,3.318943913,3.318943913
+AXL007,B9,Ni_50,Plecoptera,Pteronarcella badia,223,larvae,11,1,5.874111194,5.874111194
+AXL007,B9,Ni_50,Plecoptera,Sweltsa sp.,11,larvae,5,1,0.521083892,0.521083892
+AXL007,B9,Ni_50,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,B9,Ni_50,Trichoptera,Arctopsyche grandis,212,larvae,6,1,0.803654364,0.803654364
+AXL007,B9,Ni_50,Trichoptera,Arctopsyche grandis,212,larvae,8,2,1.810907633,3.621815267
+AXL007,B9,Ni_50,Trichoptera,Arctopsyche grandis,212,larvae,9,3,2.525521225,7.576563675
+AXL007,B9,Ni_50,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,B9,Ni_50,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,B9,Ni_50,Trichoptera,Arctopsyche grandis,212,larvae,13,1,7.13421516,7.13421516
+AXL007,B9,Ni_50,Trichoptera,Arctopsyche grandis,212,larvae,17,1,15.21801227,15.21801227
+AXL007,B9,Ni_50,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,B9,Ni_50,Trichoptera,Brachycentrus occidentalis,134,larvae,6,5,0.263714045,1.318570223
+AXL007,B9,Ni_50,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,B9,Ni_50,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,B9,Ni_50,Trichoptera,Hydropsyche oslari,139,larvae,5,1,0.48024347,0.48024347
+AXL007,B9,Ni_50,Trichoptera,Lepidostoma sp.,45,larvae,2,19,0.049551357,0.941475777
+AXL007,B9,Ni_50,Trichoptera,Lepidostoma sp.,45,larvae,3,4,0.14505119,0.580204759
+AXL007,C1,Ni_800,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,C1,Ni_800,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,C1,Ni_800,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,C1,Ni_800,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,C1,Ni_800,Diptera,Atherix pachypus,159,larvae,12,3,2.268208212,6.804624637
+AXL007,C1,Ni_800,Diptera,Atherix pachypus,159,larvae,15,1,4.125709674,4.125709674
+AXL007,C1,Ni_800,Diptera,Cricotopus/Orthocladius sp.,117,larvae,3,1,0.065380122,0.065380122
+AXL007,C1,Ni_800,Diptera,Eukiefferiella sp.,120,larvae,4,1,0.12751271,0.12751271
+AXL007,C1,Ni_800,Ephemeroptera,Rhithrogena sp.,32,larvae,4,1,0.491469953,0.491469953
+AXL007,C1,Ni_800,Ephemeroptera,Rhithrogena sp.,32,larvae,6,1,1.501247506,1.501247506
+AXL007,C1,Ni_800,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,C1,Ni_800,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,C1,Ni_800,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,C1,Ni_800,Trichoptera,Brachycentrus occidentalis,134,larvae,6,2,0.263714045,0.527428089
+AXL007,C1,Ni_800,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,C1,Ni_800,Trichoptera,Hydropsyche oslari,139,larvae,3,2,0.113490785,0.22698157
+AXL007,C1,Ni_800,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,C1,Ni_800,Trichoptera,Lepidostoma sp.,45,larvae,1,2,0.0079,0.0158
+AXL007,C1,Ni_800,Trichoptera,Lepidostoma sp.,45,larvae,2,2,0.049551357,0.099102713
+AXL007,C2,Ni_400,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,C2,Ni_400,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,C2,Ni_400,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,C2,Ni_400,Diptera,Atherix pachypus,159,larvae,9,3,1.048871212,3.146613636
+AXL007,C2,Ni_400,Diptera,Atherix pachypus,159,larvae,10,4,1.391227001,5.564908004
+AXL007,C2,Ni_400,Diptera,Cricotopus/Orthocladius sp.,117,larvae,4,1,0.12751271,0.12751271
+AXL007,C2,Ni_400,Diptera,Eukiefferiella sp.,120,larvae,2,1,0.025501271,0.025501271
+AXL007,C2,Ni_400,Diptera,Polypedilum sp.,90,larvae,3,2,0.017929162,0.035858323
+AXL007,C2,Ni_400,Diptera,Tvetenia sp.,118,larvae,3,1,0.065380122,0.065380122
+AXL007,C2,Ni_400,Ephemeroptera,Ephemerella sp.,28,larvae,2,1,0.065825398,0.065825398
+AXL007,C2,Ni_400,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,C2,Ni_400,Ephemeroptera,Rhithrogena sp.,32,larvae,3,1,0.222543898,0.222543898
+AXL007,C2,Ni_400,Ephemeroptera,Rhithrogena sp.,32,larvae,5,3,0.908630158,2.725890475
+AXL007,C2,Ni_400,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,C2,Ni_400,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,C2,Ni_400,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,C2,Ni_400,Trichoptera,Brachycentrus occidentalis,134,larvae,5,3,0.164157988,0.492473963
+AXL007,C2,Ni_400,Trichoptera,Brachycentrus occidentalis,134,larvae,6,4,0.263714045,1.054856179
+AXL007,C2,Ni_400,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,C2,Ni_400,Trichoptera,Brachycentrus occidentalis,134,larvae,8,2,0.557152361,1.114304721
+AXL007,C2,Ni_400,Trichoptera,Brachycentrus occidentalis,134,larvae,9,1,0.756781546,0.756781546
+AXL007,C2,Ni_400,Trichoptera,Lepidostoma sp.,45,larvae,2,12,0.049551357,0.59461628
+AXL007,C3,control,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,C3,control,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,C3,control,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,C3,control,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,C3,control,Diptera,Atherix pachypus,159,larvae,14,4,3.428998235,13.71599294
+AXL007,C3,control,Diptera,Atherix pachypus,159,larvae,16,1,4.905052628,4.905052628
+AXL007,C3,control,Diptera,Heterotrissocladius sp.,110,larvae,4,1,0.12751271,0.12751271
+AXL007,C3,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,6,0.017929162,0.10757497
+AXL007,C3,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,6,0.041915933,0.251495596
+AXL007,C3,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,C3,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,6,4,0.13873963,0.554958519
+AXL007,C3,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,7,1,0.21868926,0.21868926
+AXL007,C3,control,Diptera,Polypedilum sp.,90,larvae,3,1,0.017929162,0.017929162
+AXL007,C3,control,Diptera,Polypedilum sp.,90,larvae,4,1,0.041915933,0.041915933
+AXL007,C3,control,Diptera,Polypedilum sp.,90,larvae,5,1,0.080994866,0.080994866
+AXL007,C3,control,Diptera,Thienemannimyia group,83,larvae,4,3,0.107485588,0.322456763
+AXL007,C3,control,Diptera,Tvetenia sp.,118,larvae,4,1,0.12751271,0.12751271
+AXL007,C3,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,3,0.285232064,0.855696192
+AXL007,C3,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,4,0.5417696,2.1670784
+AXL007,C3,control,Ephemeroptera,Baetis tricaudatus,26,larvae,6,1,0.915083479,0.915083479
+AXL007,C3,control,Ephemeroptera,Diphetor hageni,35,larvae,3,9,0.124738201,1.122643811
+AXL007,C3,control,Ephemeroptera,Diphetor hageni,35,larvae,4,2,0.285232064,0.570464128
+AXL007,C3,control,Ephemeroptera,Drunella doddsii,171,larvae,4,5,0.420677962,2.103389811
+AXL007,C3,control,Ephemeroptera,Drunella grandis,201,larvae,5,4,0.764330089,3.057320354
+AXL007,C3,control,Ephemeroptera,Drunella grandis,201,larvae,6,5,1.245001775,6.225008877
+AXL007,C3,control,Ephemeroptera,Drunella grandis,201,larvae,7,2,1.880700239,3.761400478
+AXL007,C3,control,Ephemeroptera,Epeorus longimanus,31,larvae,2,2,0.072855168,0.145710336
+AXL007,C3,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,24,0.065825398,1.57980955
+AXL007,C3,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,28,0.194811102,5.454710847
+AXL007,C3,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,8,0.420677962,3.365423698
+AXL007,C3,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,2,0.089876375,0.17975275
+AXL007,C3,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,3,0.194639506,0.583918519
+AXL007,C3,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,C3,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,4,0.578378468,2.313513871
+AXL007,C3,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,2,0.072855168,0.145710336
+AXL007,C3,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,18,0.222543898,4.005790166
+AXL007,C3,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,29,0.491469953,14.25262864
+AXL007,C3,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,36,0.908630158,32.7106857
+AXL007,C3,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,7,1.501247506,10.50873254
+AXL007,C3,control,Ephemeroptera,Rhithrogena sp.,32,larvae,7,1,2.29521703,2.29521703
+AXL007,C3,control,Plecoptera,Isoperla fulva,165,larvae,5,1,1.617453572,1.617453572
+AXL007,C3,control,Plecoptera,Skwala americana,16,larvae,14,1,27.22319821,27.22319821
+AXL007,C3,control,Plecoptera,Sweltsa sp.,11,larvae,8,1,1.874694396,1.874694396
+AXL007,C3,control,Trichoptera,Arctopsyche grandis,212,larvae,8,2,1.810907633,3.621815267
+AXL007,C3,control,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,C3,control,Trichoptera,Arctopsyche grandis,212,larvae,10,2,3.400714523,6.801429046
+AXL007,C3,control,Trichoptera,Arctopsyche grandis,212,larvae,11,1,4.451056622,4.451056622
+AXL007,C3,control,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,C3,control,Trichoptera,Arctopsyche grandis,212,larvae,16,1,12.82345367,12.82345367
+AXL007,C3,control,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,C3,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,1,0.393726742,0.393726742
+AXL007,C3,control,Trichoptera,Hydropsyche oslari,139,larvae,4,2,0.255733482,0.511466964
+AXL007,C3,control,Trichoptera,Hydropsyche oslari,139,larvae,5,1,0.48024347,0.48024347
+AXL007,C3,control,Trichoptera,Hydropsyche oslari,139,larvae,6,1,0.803654364,0.803654364
+AXL007,C3,control,Trichoptera,Lepidostoma sp.,45,larvae,2,36,0.049551357,1.783848841
+AXL007,C3,control,Trichoptera,Lepidostoma sp.,45,larvae,4,2,0.310802146,0.621604291
+AXL007,C4,NZ_100,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,C4,NZ_100,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,C4,NZ_100,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,C4,NZ_100,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,C4,NZ_100,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,C4,NZ_100,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,C4,NZ_100,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,C4,NZ_100,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,1,0.041915933,0.041915933
+AXL007,C4,NZ_100,Diptera,Rheocricotopus sp.,112,larvae,3,1,0.065380122,0.065380122
+AXL007,C4,NZ_100,Ephemeroptera,Drunella grandis,201,larvae,5,1,0.764330089,0.764330089
+AXL007,C4,NZ_100,Ephemeroptera,Ephemerella sp.,28,larvae,2,1,0.065825398,0.065825398
+AXL007,C4,NZ_100,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,C4,NZ_100,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,1,0.578378468,0.578378468
+AXL007,C4,NZ_100,Ephemeroptera,Rhithrogena sp.,32,larvae,3,6,0.222543898,1.335263389
+AXL007,C4,NZ_100,Ephemeroptera,Rhithrogena sp.,32,larvae,4,20,0.491469953,9.829399062
+AXL007,C4,NZ_100,Ephemeroptera,Rhithrogena sp.,32,larvae,5,27,0.908630158,24.53301428
+AXL007,C4,NZ_100,Ephemeroptera,Rhithrogena sp.,32,larvae,6,4,1.501247506,6.004990026
+AXL007,C4,NZ_100,Planariidae,Polycelis coronata,207,larvae,3,1,0.062647038,0.062647038
+AXL007,C4,NZ_100,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,C4,NZ_100,Plecoptera,Triznaka signata,19,larvae,4,1,0.28374275,0.28374275
+AXL007,C4,NZ_100,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,C4,NZ_100,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,C4,NZ_100,Trichoptera,Arctopsyche grandis,212,larvae,10,2,3.400714523,6.801429046
+AXL007,C4,NZ_100,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,C4,NZ_100,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,C4,NZ_100,Trichoptera,Brachycentrus occidentalis,134,larvae,6,4,0.263714045,1.054856179
+AXL007,C4,NZ_100,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,C4,NZ_100,Trichoptera,Brachycentrus occidentalis,134,larvae,8,2,0.557152361,1.114304721
+AXL007,C4,NZ_100,Trichoptera,Hydropsyche oslari,139,larvae,3,1,0.113490785,0.113490785
+AXL007,C4,NZ_100,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,C4,NZ_100,Trichoptera,Hydropsyche oslari,139,larvae,6,1,0.803654364,0.803654364
+AXL007,C4,NZ_100,Trichoptera,Lepidostoma sp.,45,larvae,1,1,0.0079,0.0079
+AXL007,C4,NZ_100,Trichoptera,Lepidostoma sp.,45,larvae,2,39,0.049551357,1.932502911
+AXL007,C4,NZ_100,Trichoptera,Lepidostoma sp.,45,larvae,3,1,0.14505119,0.14505119
+AXL007,C4,NZ_100,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,C4,NZ_100,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,C5,CNZ_6,Diptera,Atherix pachypus,159,larvae,4,2,0.119267148,0.238534296
+AXL007,C5,CNZ_6,Diptera,Atherix pachypus,159,larvae,7,3,0.534694656,1.604083967
+AXL007,C5,CNZ_6,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,C5,CNZ_6,Diptera,Atherix pachypus,159,larvae,9,4,1.048871212,4.195484849
+AXL007,C5,CNZ_6,Diptera,Atherix pachypus,159,larvae,10,4,1.391227001,5.564908004
+AXL007,C5,CNZ_6,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,C5,CNZ_6,Diptera,Cricotopus/Orthocladius sp.,117,larvae,4,1,0.12751271,0.12751271
+AXL007,C5,CNZ_6,Diptera,Polypedilum sp.,90,larvae,4,1,0.041915933,0.041915933
+AXL007,C5,CNZ_6,Diptera,Synorthocladius sp.,114,larvae,4,1,0.12751271,0.12751271
+AXL007,C5,CNZ_6,Diptera,Tvetenia sp.,118,larvae,4,2,0.12751271,0.25502542
+AXL007,C5,CNZ_6,Ephemeroptera,Baetis tricaudatus,26,larvae,2,1,0.038880971,0.038880971
+AXL007,C5,CNZ_6,Ephemeroptera,Baetis tricaudatus,26,larvae,3,4,0.124738201,0.498952805
+AXL007,C5,CNZ_6,Ephemeroptera,Diphetor hageni,35,larvae,3,1,0.124738201,0.124738201
+AXL007,C5,CNZ_6,Ephemeroptera,Drunella doddsii,171,larvae,3,1,0.194811102,0.194811102
+AXL007,C5,CNZ_6,Ephemeroptera,Drunella doddsii,171,larvae,4,1,0.420677962,0.420677962
+AXL007,C5,CNZ_6,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,C5,CNZ_6,Ephemeroptera,Drunella grandis,201,larvae,5,6,0.764330089,4.585980531
+AXL007,C5,CNZ_6,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,C5,CNZ_6,Ephemeroptera,Ephemerella sp.,28,larvae,2,3,0.065825398,0.197476194
+AXL007,C5,CNZ_6,Ephemeroptera,Ephemerella sp.,28,larvae,3,9,0.194811102,1.753299915
+AXL007,C5,CNZ_6,Ephemeroptera,Ephemerella sp.,28,larvae,4,1,0.420677962,0.420677962
+AXL007,C5,CNZ_6,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,C5,CNZ_6,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,3,0.194639506,0.583918519
+AXL007,C5,CNZ_6,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,3,0.354430665,1.063291995
+AXL007,C5,CNZ_6,Ephemeroptera,Rhithrogena sp.,32,larvae,2,6,0.072855168,0.437131008
+AXL007,C5,CNZ_6,Ephemeroptera,Rhithrogena sp.,32,larvae,3,38,0.222543898,8.456668129
+AXL007,C5,CNZ_6,Ephemeroptera,Rhithrogena sp.,32,larvae,4,47,0.491469953,23.0990878
+AXL007,C5,CNZ_6,Ephemeroptera,Rhithrogena sp.,32,larvae,5,41,0.908630158,37.2538365
+AXL007,C5,CNZ_6,Ephemeroptera,Rhithrogena sp.,32,larvae,6,5,1.501247506,7.506237532
+AXL007,C5,CNZ_6,Plecoptera,Diura knowltoni,168,larvae,12,1,17.83902228,17.83902228
+AXL007,C5,CNZ_6,Plecoptera,Hesperoperla pacifica,14,larvae,4,1,0.535754601,0.535754601
+AXL007,C5,CNZ_6,Plecoptera,Isoperla fulva,165,larvae,4,1,0.877212007,0.877212007
+AXL007,C5,CNZ_6,Plecoptera,Sweltsa sp.,11,larvae,5,1,0.521083892,0.521083892
+AXL007,C5,CNZ_6,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,C5,CNZ_6,Plecoptera,Sweltsa sp.,11,larvae,8,1,1.874694396,1.874694396
+AXL007,C5,CNZ_6,Plecoptera,Zapada cinctipes,13,larvae,3,1,0.116411781,0.116411781
+AXL007,C5,CNZ_6,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,C5,CNZ_6,Trichoptera,Arctopsyche grandis,212,larvae,8,3,1.810907633,5.4327229
+AXL007,C5,CNZ_6,Trichoptera,Arctopsyche grandis,212,larvae,9,3,2.525521225,7.576563675
+AXL007,C5,CNZ_6,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,C5,CNZ_6,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,C5,CNZ_6,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,C5,CNZ_6,Trichoptera,Brachycentrus occidentalis,134,larvae,6,5,0.263714045,1.318570223
+AXL007,C5,CNZ_6,Trichoptera,Brachycentrus occidentalis,134,larvae,7,3,0.393726742,1.181180225
+AXL007,C5,CNZ_6,Trichoptera,Hydropsyche cockerelli,139,larvae,9,1,2.525521225,2.525521225
+AXL007,C5,CNZ_6,Trichoptera,Hydropsyche oslari,139,larvae,3,2,0.113490785,0.22698157
+AXL007,C5,CNZ_6,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,C5,CNZ_6,Trichoptera,Lepidostoma sp.,45,larvae,2,22,0.049551357,1.090129847
+AXL007,C5,CNZ_6,Trichoptera,Lepidostoma sp.,45,larvae,3,2,0.14505119,0.290102379
+AXL007,C5,CNZ_6,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,9,3,1.048871212,3.146613636
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,11,3,1.796270704,5.388812111
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,16,1,4.905052628,4.905052628
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,17,1,5.770740644,5.770740644
+AXL007,C6,NZ_400,Diptera,Atherix pachypus,159,larvae,18,1,6.726413847,6.726413847
+AXL007,C6,NZ_400,Diptera,Cricotopus/Orthocladius sp.,117,larvae,4,1,0.12751271,0.12751271
+AXL007,C6,NZ_400,Ephemeroptera,Rhithrogena sp.,32,larvae,4,3,0.491469953,1.474409859
+AXL007,C6,NZ_400,Plecoptera,Hesperoperla pacifica,14,larvae,5,1,1.018520647,1.018520647
+AXL007,C6,NZ_400,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,C6,NZ_400,Trichoptera,Arctopsyche grandis,212,larvae,8,2,1.810907633,3.621815267
+AXL007,C6,NZ_400,Trichoptera,Arctopsyche grandis,212,larvae,13,1,7.13421516,7.13421516
+AXL007,C6,NZ_400,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,C6,NZ_400,Trichoptera,Arctopsyche grandis,212,larvae,16,1,12.82345367,12.82345367
+AXL007,C6,NZ_400,Trichoptera,Arctopsyche grandis,212,larvae,17,1,15.21801227,15.21801227
+AXL007,C6,NZ_400,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,C6,NZ_400,Trichoptera,Brachycentrus occidentalis,134,larvae,6,1,0.263714045,0.263714045
+AXL007,C6,NZ_400,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,C6,NZ_400,Trichoptera,Brachycentrus occidentalis,134,larvae,10,1,0.995267926,0.995267926
+AXL007,C6,NZ_400,Trichoptera,Hydropsyche cockerelli,139,larvae,6,1,0.803654364,0.803654364
+AXL007,C6,NZ_400,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,C6,NZ_400,Trichoptera,Hydropsyche oslari,139,larvae,5,1,0.48024347,0.48024347
+AXL007,C6,NZ_400,Trichoptera,Hydropsyche oslari,139,larvae,8,1,1.810907633,1.810907633
+AXL007,C6,NZ_400,Trichoptera,Lepidostoma sp.,45,larvae,2,6,0.049551357,0.29730814
+AXL007,C6,NZ_400,Trichoptera,Lepidostoma sp.,45,larvae,3,1,0.14505119,0.14505119
+AXL007,C6,NZ_400,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,C7,Cu_12,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,C7,Cu_12,Diptera,Atherix pachypus,159,larvae,6,5,0.353688957,1.768444784
+AXL007,C7,Cu_12,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,C7,Cu_12,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,C7,Cu_12,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,C7,Cu_12,Diptera,Atherix pachypus,159,larvae,10,4,1.391227001,5.564908004
+AXL007,C7,Cu_12,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,C7,Cu_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,2,0.017929162,0.035858323
+AXL007,C7,Cu_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,3,0.041915933,0.125747798
+AXL007,C7,Cu_12,Ephemeroptera,Ameletus sp.,24,larvae,3,2,0.131058008,0.262116016
+AXL007,C7,Cu_12,Ephemeroptera,Baetis tricaudatus,26,larvae,5,3,0.5417696,1.6253088
+AXL007,C7,Cu_12,Ephemeroptera,Diphetor hageni,35,larvae,3,1,0.124738201,0.124738201
+AXL007,C7,Cu_12,Ephemeroptera,Drunella doddsii,171,larvae,3,1,0.194811102,0.194811102
+AXL007,C7,Cu_12,Ephemeroptera,Drunella doddsii,171,larvae,4,4,0.420677962,1.682711849
+AXL007,C7,Cu_12,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,C7,Cu_12,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,C7,Cu_12,Ephemeroptera,Drunella grandis,201,larvae,5,5,0.764330089,3.821650443
+AXL007,C7,Cu_12,Ephemeroptera,Drunella grandis,201,larvae,6,4,1.245001775,4.980007101
+AXL007,C7,Cu_12,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,C7,Cu_12,Ephemeroptera,Ephemerella sp.,28,larvae,2,18,0.065825398,1.184857162
+AXL007,C7,Cu_12,Ephemeroptera,Ephemerella sp.,28,larvae,3,17,0.194811102,3.311788729
+AXL007,C7,Cu_12,Ephemeroptera,Ephemerella sp.,28,larvae,4,6,0.420677962,2.524067773
+AXL007,C7,Cu_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,C7,Cu_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,C7,Cu_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,2,0.578378468,1.156756936
+AXL007,C7,Cu_12,Ephemeroptera,Rhithrogena sp.,32,larvae,2,3,0.072855168,0.218565504
+AXL007,C7,Cu_12,Ephemeroptera,Rhithrogena sp.,32,larvae,3,44,0.222543898,9.791931518
+AXL007,C7,Cu_12,Ephemeroptera,Rhithrogena sp.,32,larvae,4,62,0.491469953,30.47113709
+AXL007,C7,Cu_12,Ephemeroptera,Rhithrogena sp.,32,larvae,5,27,0.908630158,24.53301428
+AXL007,C7,Cu_12,Ephemeroptera,Rhithrogena sp.,32,larvae,6,1,1.501247506,1.501247506
+AXL007,C7,Cu_12,Plecoptera,Sweltsa sp.,11,larvae,4,1,0.28374275,0.28374275
+AXL007,C7,Cu_12,Plecoptera,Sweltsa sp.,11,larvae,6,3,0.856243648,2.568730944
+AXL007,C7,Cu_12,Plecoptera,Sweltsa sp.,11,larvae,7,3,1.303048011,3.909144033
+AXL007,C7,Cu_12,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,C7,Cu_12,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,C7,Cu_12,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,C7,Cu_12,Trichoptera,Brachycentrus americanus,134,larvae,3,1,0.043496596,0.043496596
+AXL007,C7,Cu_12,Trichoptera,Brachycentrus occidentalis,134,larvae,4,1,0.091895868,0.091895868
+AXL007,C7,Cu_12,Trichoptera,Brachycentrus occidentalis,134,larvae,6,6,0.263714045,1.582284268
+AXL007,C7,Cu_12,Trichoptera,Brachycentrus occidentalis,134,larvae,7,1,0.393726742,0.393726742
+AXL007,C7,Cu_12,Trichoptera,Hydropsyche oslari,139,larvae,3,1,0.113490785,0.113490785
+AXL007,C7,Cu_12,Trichoptera,Lepidostoma sp.,45,larvae,2,35,0.049551357,1.734297484
+AXL007,C7,Cu_12,Trichoptera,Lepidostoma sp.,45,larvae,3,1,0.14505119,0.14505119
+AXL007,C7,Cu_12,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,C7,Cu_12,Trichoptera,Lepidostoma sp.,45,larvae,6,1,0.909808005,0.909808005
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,9,6,1.048871212,6.293227273
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,11,6,1.796270704,10.77762422
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,13,2,2.811124793,5.622249585
+AXL007,C8,Ni_12,Diptera,Atherix pachypus,159,larvae,15,1,4.125709674,4.125709674
+AXL007,C8,Ni_12,Diptera,Cricotopus/Orthocladius sp.,117,larvae,4,1,0.12751271,0.12751271
+AXL007,C8,Ni_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,2,0.017929162,0.035858323
+AXL007,C8,Ni_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,3,0.041915933,0.125747798
+AXL007,C8,Ni_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,2,0.080994866,0.161989733
+AXL007,C8,Ni_12,Diptera,Tvetenia sp. pupae,118,pupae,3,1,0.065380122,0.065380122
+AXL007,C8,Ni_12,Ephemeroptera,Ameletus sp.,24,larvae,3,2,0.131058008,0.262116016
+AXL007,C8,Ni_12,Ephemeroptera,Ameletus sp.,24,larvae,4,1,0.275299551,0.275299551
+AXL007,C8,Ni_12,Ephemeroptera,Baetis tricaudatus,26,larvae,4,4,0.285232064,1.140928256
+AXL007,C8,Ni_12,Ephemeroptera,Baetis tricaudatus,26,larvae,5,7,0.5417696,3.7923872
+AXL007,C8,Ni_12,Ephemeroptera,Diphetor hageni,35,larvae,3,15,0.124738201,1.871073018
+AXL007,C8,Ni_12,Ephemeroptera,Diphetor hageni,35,larvae,4,8,0.285232064,2.281856512
+AXL007,C8,Ni_12,Ephemeroptera,Drunella doddsii,171,larvae,3,1,0.194811102,0.194811102
+AXL007,C8,Ni_12,Ephemeroptera,Drunella doddsii,171,larvae,4,4,0.420677962,1.682711849
+AXL007,C8,Ni_12,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,C8,Ni_12,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,C8,Ni_12,Ephemeroptera,Drunella grandis,201,larvae,5,9,0.764330089,6.878970797
+AXL007,C8,Ni_12,Ephemeroptera,Drunella grandis,201,larvae,6,3,1.245001775,3.735005326
+AXL007,C8,Ni_12,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,C8,Ni_12,Ephemeroptera,Ephemerella sp.,28,larvae,2,30,0.065825398,1.974761937
+AXL007,C8,Ni_12,Ephemeroptera,Ephemerella sp.,28,larvae,3,31,0.194811102,6.039144152
+AXL007,C8,Ni_12,Ephemeroptera,Ephemerella sp.,28,larvae,4,12,0.420677962,5.048135546
+AXL007,C8,Ni_12,Ephemeroptera,Ephemerella sp.,28,larvae,5,6,0.764330089,4.585980531
+AXL007,C8,Ni_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,3,0.089876375,0.269629125
+AXL007,C8,Ni_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,C8,Ni_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,8,0.354430665,2.83544532
+AXL007,C8,Ni_12,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,C8,Ni_12,Ephemeroptera,Rhithrogena sp.,32,larvae,3,20,0.222543898,4.450877963
+AXL007,C8,Ni_12,Ephemeroptera,Rhithrogena sp.,32,larvae,4,55,0.491469953,27.03084742
+AXL007,C8,Ni_12,Ephemeroptera,Rhithrogena sp.,32,larvae,5,60,0.908630158,54.51780951
+AXL007,C8,Ni_12,Ephemeroptera,Rhithrogena sp.,32,larvae,6,7,1.501247506,10.50873254
+AXL007,C8,Ni_12,Plecoptera,Hesperoperla pacifica,14,larvae,3,1,0.234027712,0.234027712
+AXL007,C8,Ni_12,Plecoptera,Isoperla fulva,165,larvae,5,1,1.617453572,1.617453572
+AXL007,C8,Ni_12,Plecoptera,Pteronarcella badia,223,larvae,10,1,4.478988774,4.478988774
+AXL007,C8,Ni_12,Plecoptera,Skwala americana,16,larvae,8,1,5.868523063,5.868523063
+AXL007,C8,Ni_12,Trichoptera,Arctopsyche grandis,212,larvae,8,2,1.810907633,3.621815267
+AXL007,C8,Ni_12,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,C8,Ni_12,Trichoptera,Arctopsyche grandis,212,larvae,10,2,3.400714523,6.801429046
+AXL007,C8,Ni_12,Trichoptera,Arctopsyche grandis,212,larvae,13,2,7.13421516,14.26843032
+AXL007,C8,Ni_12,Trichoptera,Arctopsyche grandis,212,larvae,15,1,10.68690359,10.68690359
+AXL007,C8,Ni_12,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,C8,Ni_12,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,C8,Ni_12,Trichoptera,Brachycentrus occidentalis,134,larvae,6,6,0.263714045,1.582284268
+AXL007,C8,Ni_12,Trichoptera,Brachycentrus occidentalis,134,larvae,7,4,0.393726742,1.574906966
+AXL007,C8,Ni_12,Trichoptera,Brachycentrus occidentalis,134,larvae,8,2,0.557152361,1.114304721
+AXL007,C8,Ni_12,Trichoptera,Brachycentrus occidentalis,134,larvae,9,1,0.756781546,0.756781546
+AXL007,C8,Ni_12,Trichoptera,Hydropsyche cockerelli,139,larvae,6,1,0.803654364,0.803654364
+AXL007,C8,Ni_12,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,C8,Ni_12,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,C8,Ni_12,Trichoptera,Lepidostoma sp.,45,larvae,2,52,0.049551357,2.576670548
+AXL007,C9,CNZ_12,Coleoptera,Zaitzevia parvula,209,larvae,3,1,0.101452024,0.101452024
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,12,4,2.268208212,9.07283285
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,13,4,2.811124793,11.24449917
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,14,1,3.428998235,3.428998235
+AXL007,C9,CNZ_12,Diptera,Atherix pachypus,159,larvae,16,2,4.905052628,9.810105255
+AXL007,C9,CNZ_12,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,C9,CNZ_12,Diptera,Nanocladius sp.,116,larvae,3,1,0.065380122,0.065380122
+AXL007,C9,CNZ_12,Diptera,Nanocladius sp. pupae,116,pupae,3,4,0.065380122,0.26152049
+AXL007,C9,CNZ_12,Ephemeroptera,Baetis tricaudatus,26,larvae,4,1,0.285232064,0.285232064
+AXL007,C9,CNZ_12,Ephemeroptera,Drunella doddsii,171,larvae,4,2,0.420677962,0.841355924
+AXL007,C9,CNZ_12,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,C9,CNZ_12,Ephemeroptera,Drunella grandis,201,larvae,5,2,0.764330089,1.528660177
+AXL007,C9,CNZ_12,Ephemeroptera,Ephemerella sp.,28,larvae,3,2,0.194811102,0.389622203
+AXL007,C9,CNZ_12,Ephemeroptera,Ephemerella sp.,28,larvae,4,2,0.420677962,0.841355924
+AXL007,C9,CNZ_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,4,0.354430665,1.41772266
+AXL007,C9,CNZ_12,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,1,0.578378468,0.578378468
+AXL007,C9,CNZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,C9,CNZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,3,19,0.222543898,4.228334065
+AXL007,C9,CNZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,4,27,0.491469953,13.26968873
+AXL007,C9,CNZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,5,29,0.908630158,26.35027459
+AXL007,C9,CNZ_12,Ephemeroptera,Rhithrogena sp.,32,larvae,6,7,1.501247506,10.50873254
+AXL007,C9,CNZ_12,Plecoptera,Hesperoperla pacifica,14,larvae,22,1,72.52205347,72.52205347
+AXL007,C9,CNZ_12,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,C9,CNZ_12,Trichoptera,Arctopsyche grandis,212,larvae,9,2,2.525521225,5.05104245
+AXL007,C9,CNZ_12,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,C9,CNZ_12,Trichoptera,Brachycentrus americanus,134,larvae,3,2,0.043496596,0.086993192
+AXL007,C9,CNZ_12,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,C9,CNZ_12,Trichoptera,Hydropsyche oslari,139,larvae,7,1,1.242015573,1.242015573
+AXL007,C9,CNZ_12,Trichoptera,Lepidostoma sp.,45,larvae,2,16,0.049551357,0.792821707
+AXL007,C9,CNZ_12,Trichoptera,Lepidostoma sp.,45,larvae,3,2,0.14505119,0.290102379
+AXL007,C9,CNZ_12,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,7,1,0.534694656,0.534694656
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,11,4,1.796270704,7.185082815
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,15,1,4.125709674,4.125709674
+AXL007,D1,CNZ_100,Diptera,Atherix pachypus,159,larvae,16,1,4.905052628,4.905052628
+AXL007,D1,CNZ_100,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,D1,CNZ_100,Trichoptera,Arctopsyche grandis,212,larvae,23,1,35.7346543,35.7346543
+AXL007,D1,CNZ_100,Trichoptera,Hydropsyche oslari,139,larvae,5,1,0.48024347,0.48024347
+AXL007,D1,CNZ_100,Trichoptera,Lepidostoma sp.,45,larvae,2,1,0.049551357,0.049551357
+AXL007,D2,Ni_100,Diptera,Atherix pachypus,159,larvae,3,1,0.05515185,0.05515185
+AXL007,D2,Ni_100,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,D2,Ni_100,Diptera,Atherix pachypus,159,larvae,6,2,0.353688957,0.707377914
+AXL007,D2,Ni_100,Diptera,Atherix pachypus,159,larvae,9,3,1.048871212,3.146613636
+AXL007,D2,Ni_100,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,D2,Ni_100,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,D2,Ni_100,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,D2,Ni_100,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,1,0.041915933,0.041915933
+AXL007,D2,Ni_100,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,D2,Ni_100,Ephemeroptera,Drunella grandis,201,larvae,5,1,0.764330089,0.764330089
+AXL007,D2,Ni_100,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,D2,Ni_100,Ephemeroptera,Drunella grandis,201,larvae,7,1,1.880700239,1.880700239
+AXL007,D2,Ni_100,Ephemeroptera,Ephemerella sp.,28,larvae,1,1,0.0103,0.0103
+AXL007,D2,Ni_100,Ephemeroptera,Ephemerella sp.,28,larvae,2,4,0.065825398,0.263301592
+AXL007,D2,Ni_100,Ephemeroptera,Ephemerella sp.,28,larvae,3,2,0.194811102,0.389622203
+AXL007,D2,Ni_100,Ephemeroptera,Ephemerella sp.,28,larvae,4,1,0.420677962,0.420677962
+AXL007,D2,Ni_100,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,D2,Ni_100,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,3,0.194639506,0.583918519
+AXL007,D2,Ni_100,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,2,0.354430665,0.70886133
+AXL007,D2,Ni_100,Ephemeroptera,Rhithrogena sp.,32,larvae,2,3,0.072855168,0.218565504
+AXL007,D2,Ni_100,Ephemeroptera,Rhithrogena sp.,32,larvae,3,7,0.222543898,1.557807287
+AXL007,D2,Ni_100,Ephemeroptera,Rhithrogena sp.,32,larvae,4,26,0.491469953,12.77821878
+AXL007,D2,Ni_100,Ephemeroptera,Rhithrogena sp.,32,larvae,5,26,0.908630158,23.62438412
+AXL007,D2,Ni_100,Ephemeroptera,Rhithrogena sp.,32,larvae,6,6,1.501247506,9.007485038
+AXL007,D2,Ni_100,Plecoptera,Diura knowltoni,168,larvae,12,1,17.83902228,17.83902228
+AXL007,D2,Ni_100,Plecoptera,Hesperoperla pacifica,14,larvae,4,1,0.535754601,0.535754601
+AXL007,D2,Ni_100,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,D2,Ni_100,Plecoptera,Sweltsa sp.,11,larvae,8,1,1.874694396,1.874694396
+AXL007,D2,Ni_100,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,D2,Ni_100,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,D2,Ni_100,Trichoptera,Arctopsyche grandis,212,larvae,16,1,12.82345367,12.82345367
+AXL007,D2,Ni_100,Trichoptera,Brachycentrus americanus,134,larvae,3,2,0.043496596,0.086993192
+AXL007,D2,Ni_100,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,D2,Ni_100,Trichoptera,Brachycentrus occidentalis,134,larvae,6,1,0.263714045,0.263714045
+AXL007,D2,Ni_100,Trichoptera,Hydropsyche oslari,139,larvae,3,1,0.113490785,0.113490785
+AXL007,D2,Ni_100,Trichoptera,Hydropsyche oslari,139,larvae,4,1,0.255733482,0.255733482
+AXL007,D2,Ni_100,Trichoptera,Hydropsyche oslari,139,larvae,6,1,0.803654364,0.803654364
+AXL007,D2,Ni_100,Trichoptera,Lepidostoma sp.,45,larvae,2,17,0.049551357,0.842373064
+AXL007,D2,Ni_100,Trichoptera,Lepidostoma sp.,45,larvae,3,5,0.14505119,0.725255948
+AXL007,D2,Ni_100,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,D2,Ni_100,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,D2,Ni_100,Trichoptera,Lepidostoma sp.,45,larvae,6,1,0.909808005,0.909808005
+AXL007,D3,Zn_800,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,D3,Zn_800,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,D3,Zn_800,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,D3,Zn_800,Diptera,Atherix pachypus,159,larvae,12,2,2.268208212,4.536416425
+AXL007,D3,Zn_800,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,D3,Zn_800,Diptera,Atherix pachypus,159,larvae,15,2,4.125709674,8.251419348
+AXL007,D3,Zn_800,Diptera,Eukiefferiella sp.,120,larvae,4,1,0.12751271,0.12751271
+AXL007,D3,Zn_800,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,D3,Zn_800,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,D3,Zn_800,Diptera,Pagastia sp.,97,larvae,10,1,0.626755336,0.626755336
+AXL007,D3,Zn_800,Ephemeroptera,Drunella doddsii,171,larvae,5,1,0.764330089,0.764330089
+AXL007,D3,Zn_800,Ephemeroptera,Drunella grandis,201,larvae,5,3,0.764330089,2.292990266
+AXL007,D3,Zn_800,Ephemeroptera,Ephemerella sp.,28,larvae,2,1,0.065825398,0.065825398
+AXL007,D3,Zn_800,Ephemeroptera,Ephemerella sp.,28,larvae,3,3,0.194811102,0.584433305
+AXL007,D3,Zn_800,Ephemeroptera,Ephemerella sp.,28,larvae,4,3,0.420677962,1.262033887
+AXL007,D3,Zn_800,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,D3,Zn_800,Ephemeroptera,Rhithrogena sp.,32,larvae,3,8,0.222543898,1.780351185
+AXL007,D3,Zn_800,Ephemeroptera,Rhithrogena sp.,32,larvae,4,20,0.491469953,9.829399062
+AXL007,D3,Zn_800,Ephemeroptera,Rhithrogena sp.,32,larvae,5,34,0.908630158,30.89342539
+AXL007,D3,Zn_800,Ephemeroptera,Rhithrogena sp.,32,larvae,6,11,1.501247506,16.51372257
+AXL007,D3,Zn_800,Plecoptera,Claassenia sabulosa,138,larvae,6,1,1.721601548,1.721601548
+AXL007,D3,Zn_800,Plecoptera,Skwala americana,16,larvae,11,1,14.05253948,14.05253948
+AXL007,D3,Zn_800,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,D3,Zn_800,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,D3,Zn_800,Trichoptera,Arctopsyche grandis,212,larvae,13,1,7.13421516,7.13421516
+AXL007,D3,Zn_800,Trichoptera,Arctopsyche grandis,212,larvae,15,1,10.68690359,10.68690359
+AXL007,D3,Zn_800,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,D3,Zn_800,Trichoptera,Brachycentrus americanus,134,larvae,3,2,0.043496596,0.086993192
+AXL007,D3,Zn_800,Trichoptera,Brachycentrus occidentalis,134,larvae,5,2,0.164157988,0.328315976
+AXL007,D3,Zn_800,Trichoptera,Brachycentrus occidentalis,134,larvae,6,3,0.263714045,0.791142134
+AXL007,D3,Zn_800,Trichoptera,Brachycentrus occidentalis,134,larvae,7,4,0.393726742,1.574906966
+AXL007,D3,Zn_800,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,D3,Zn_800,Trichoptera,Brachycentrus occidentalis,134,larvae,10,1,0.995267926,0.995267926
+AXL007,D3,Zn_800,Trichoptera,Hydropsyche cockerelli,139,larvae,3,1,0.113490785,0.113490785
+AXL007,D3,Zn_800,Trichoptera,Hydropsyche cockerelli,139,larvae,4,1,0.255733482,0.255733482
+AXL007,D3,Zn_800,Trichoptera,Hydropsyche cockerelli,139,larvae,5,1,0.48024347,0.48024347
+AXL007,D3,Zn_800,Trichoptera,Hydropsyche cockerelli,139,larvae,7,1,1.242015573,1.242015573
+AXL007,D3,Zn_800,Trichoptera,Lepidostoma sp.,45,larvae,2,19,0.049551357,0.941475777
+AXL007,D3,Zn_800,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,D3,Zn_800,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,D4,Zn_200,Diptera,Atherix pachypus,159,larvae,7,2,0.534694656,1.069389311
+AXL007,D4,Zn_200,Diptera,Atherix pachypus,159,larvae,8,3,0.764860535,2.294581606
+AXL007,D4,Zn_200,Diptera,Atherix pachypus,159,larvae,9,2,1.048871212,2.097742424
+AXL007,D4,Zn_200,Diptera,Atherix pachypus,159,larvae,10,3,1.391227001,4.173681003
+AXL007,D4,Zn_200,Diptera,Atherix pachypus,159,larvae,11,2,1.796270704,3.592541407
+AXL007,D4,Zn_200,Diptera,Atherix pachypus,159,larvae,14,2,3.428998235,6.85799647
+AXL007,D4,Zn_200,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,1,0.017929162,0.017929162
+AXL007,D4,Zn_200,Diptera,Simulium sp.,122,larvae,6,1,0.462942365,0.462942365
+AXL007,D4,Zn_200,Diptera,Tvetenia sp.,118,larvae,3,2,0.065380122,0.130760245
+AXL007,D4,Zn_200,Ephemeroptera,Baetis tricaudatus,26,larvae,2,1,0.038880971,0.038880971
+AXL007,D4,Zn_200,Ephemeroptera,Baetis tricaudatus,26,larvae,3,1,0.124738201,0.124738201
+AXL007,D4,Zn_200,Ephemeroptera,Baetis tricaudatus,26,larvae,4,3,0.285232064,0.855696192
+AXL007,D4,Zn_200,Ephemeroptera,Baetis tricaudatus,26,larvae,5,1,0.5417696,0.5417696
+AXL007,D4,Zn_200,Ephemeroptera,Drunella doddsii,171,larvae,4,3,0.420677962,1.262033887
+AXL007,D4,Zn_200,Ephemeroptera,Drunella doddsii,171,larvae,5,3,0.764330089,2.292990266
+AXL007,D4,Zn_200,Ephemeroptera,Drunella grandis,201,larvae,5,8,0.764330089,6.114640708
+AXL007,D4,Zn_200,Ephemeroptera,Drunella grandis,201,larvae,6,1,1.245001775,1.245001775
+AXL007,D4,Zn_200,Ephemeroptera,Ephemerella sp.,28,larvae,2,8,0.065825398,0.526603183
+AXL007,D4,Zn_200,Ephemeroptera,Ephemerella sp.,28,larvae,3,19,0.194811102,3.701410932
+AXL007,D4,Zn_200,Ephemeroptera,Ephemerella sp.,28,larvae,4,12,0.420677962,5.048135546
+AXL007,D4,Zn_200,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,1,0.194639506,0.194639506
+AXL007,D4,Zn_200,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,3,0.354430665,1.063291995
+AXL007,D4,Zn_200,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,1,0.578378468,0.578378468
+AXL007,D4,Zn_200,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,D4,Zn_200,Ephemeroptera,Rhithrogena sp.,32,larvae,3,33,0.222543898,7.343948638
+AXL007,D4,Zn_200,Ephemeroptera,Rhithrogena sp.,32,larvae,4,50,0.491469953,24.57349765
+AXL007,D4,Zn_200,Ephemeroptera,Rhithrogena sp.,32,larvae,5,47,0.908630158,42.70561745
+AXL007,D4,Zn_200,Ephemeroptera,Rhithrogena sp.,32,larvae,6,4,1.501247506,6.004990026
+AXL007,D4,Zn_200,Plecoptera,Hesperoperla pacifica,14,larvae,3,1,0.234027712,0.234027712
+AXL007,D4,Zn_200,Plecoptera,Hesperoperla pacifica,14,larvae,5,1,1.018520647,1.018520647
+AXL007,D4,Zn_200,Plecoptera,Pteronarcella badia,223,larvae,10,1,4.478988774,4.478988774
+AXL007,D4,Zn_200,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,D4,Zn_200,Trichoptera,Arctopsyche grandis,212,larvae,12,2,5.690861483,11.38172297
+AXL007,D4,Zn_200,Trichoptera,Arctopsyche grandis,212,larvae,14,1,8.794998077,8.794998077
+AXL007,D4,Zn_200,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,D4,Zn_200,Trichoptera,Brachycentrus occidentalis,134,larvae,6,1,0.263714045,0.263714045
+AXL007,D4,Zn_200,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,D4,Zn_200,Trichoptera,Hydropsyche oslari,139,larvae,3,1,0.113490785,0.113490785
+AXL007,D4,Zn_200,Trichoptera,Hydropsyche oslari,139,larvae,4,2,0.255733482,0.511466964
+AXL007,D4,Zn_200,Trichoptera,Hydropsyche oslari,139,larvae,5,2,0.48024347,0.96048694
+AXL007,D4,Zn_200,Trichoptera,Lepidostoma sp.,45,larvae,2,32,0.049551357,1.585643414
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,7,3,0.534694656,1.604083967
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,10,3,1.391227001,4.173681003
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,11,1,1.796270704,1.796270704
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,12,1,2.268208212,2.268208212
+AXL007,D5,Cu_50,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,D5,Cu_50,Ephemeroptera,Drunella doddsii,171,larvae,2,1,0.065825398,0.065825398
+AXL007,D5,Cu_50,Ephemeroptera,Drunella doddsii,171,larvae,3,2,0.194811102,0.389622203
+AXL007,D5,Cu_50,Ephemeroptera,Drunella doddsii,171,larvae,4,2,0.420677962,0.841355924
+AXL007,D5,Cu_50,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,D5,Cu_50,Ephemeroptera,Rhithrogena sp.,32,larvae,3,2,0.222543898,0.445087796
+AXL007,D5,Cu_50,Ephemeroptera,Rhithrogena sp.,32,larvae,4,11,0.491469953,5.406169484
+AXL007,D5,Cu_50,Ephemeroptera,Rhithrogena sp.,32,larvae,5,12,0.908630158,10.9035619
+AXL007,D5,Cu_50,Ephemeroptera,Rhithrogena sp.,32,larvae,6,1,1.501247506,1.501247506
+AXL007,D5,Cu_50,Plecoptera,Diura knowltoni,168,larvae,12,1,17.83902228,17.83902228
+AXL007,D5,Cu_50,Plecoptera,Hesperoperla pacifica,14,larvae,13,1,15.94696738,15.94696738
+AXL007,D5,Cu_50,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,D5,Cu_50,Trichoptera,Arctopsyche grandis,212,larvae,6,1,0.803654364,0.803654364
+AXL007,D5,Cu_50,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,D5,Cu_50,Trichoptera,Arctopsyche grandis,212,larvae,12,1,5.690861483,5.690861483
+AXL007,D5,Cu_50,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,D5,Cu_50,Trichoptera,Hydropsyche oslari,139,larvae,4,2,0.255733482,0.511466964
+AXL007,D5,Cu_50,Trichoptera,Lepidostoma sp.,45,larvae,2,3,0.049551357,0.14865407
+AXL007,D5,Cu_50,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,D6,Ni_25,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,D6,Ni_25,Diptera,Atherix pachypus,159,larvae,6,2,0.353688957,0.707377914
+AXL007,D6,Ni_25,Diptera,Atherix pachypus,159,larvae,9,3,1.048871212,3.146613636
+AXL007,D6,Ni_25,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,D6,Ni_25,Diptera,Atherix pachypus,159,larvae,11,3,1.796270704,5.388812111
+AXL007,D6,Ni_25,Diptera,Eukiefferiella sp.,120,larvae,3,1,0.065380122,0.065380122
+AXL007,D6,Ni_25,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,1,0.041915933,0.041915933
+AXL007,D6,Ni_25,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,1,0.080994866,0.080994866
+AXL007,D6,Ni_25,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,6,1,0.13873963,0.13873963
+AXL007,D6,Ni_25,Diptera,Rheotanytarsus sp.,86,larvae,4,1,0.041915933,0.041915933
+AXL007,D6,Ni_25,Ephemeroptera,Baetis tricaudatus,26,larvae,3,10,0.124738201,1.247382012
+AXL007,D6,Ni_25,Ephemeroptera,Baetis tricaudatus,26,larvae,4,1,0.285232064,0.285232064
+AXL007,D6,Ni_25,Ephemeroptera,Diphetor hageni,35,larvae,3,3,0.124738201,0.374214604
+AXL007,D6,Ni_25,Ephemeroptera,Drunella doddsii,171,larvae,4,5,0.420677962,2.103389811
+AXL007,D6,Ni_25,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,D6,Ni_25,Ephemeroptera,Drunella grandis,201,larvae,5,4,0.764330089,3.057320354
+AXL007,D6,Ni_25,Ephemeroptera,Drunella grandis,201,larvae,6,2,1.245001775,2.490003551
+AXL007,D6,Ni_25,Ephemeroptera,Ephemerella sp.,28,larvae,2,9,0.065825398,0.592428581
+AXL007,D6,Ni_25,Ephemeroptera,Ephemerella sp.,28,larvae,3,12,0.194811102,2.33773322
+AXL007,D6,Ni_25,Ephemeroptera,Ephemerella sp.,28,larvae,4,10,0.420677962,4.206779622
+AXL007,D6,Ni_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,2,0.194639506,0.389279013
+AXL007,D6,Ni_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,5,0.354430665,1.772153325
+AXL007,D6,Ni_25,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,3,0.578378468,1.735135404
+AXL007,D6,Ni_25,Ephemeroptera,Rhithrogena sp.,32,larvae,2,1,0.072855168,0.072855168
+AXL007,D6,Ni_25,Ephemeroptera,Rhithrogena sp.,32,larvae,3,22,0.222543898,4.895965759
+AXL007,D6,Ni_25,Ephemeroptera,Rhithrogena sp.,32,larvae,4,41,0.491469953,20.15026808
+AXL007,D6,Ni_25,Ephemeroptera,Rhithrogena sp.,32,larvae,5,57,0.908630158,51.79191903
+AXL007,D6,Ni_25,Ephemeroptera,Rhithrogena sp.,32,larvae,6,7,1.501247506,10.50873254
+AXL007,D6,Ni_25,Oligochaeta,Tubificidae w/out hair chaetae,,larvae,6,1,0,0
+AXL007,D6,Ni_25,Plecoptera,Claassenia sabulosa,138,larvae,3,1,0.234027712,0.234027712
+AXL007,D6,Ni_25,Plecoptera,Diura knowltoni,168,larvae,9,1,8.10567212,8.10567212
+AXL007,D6,Ni_25,Plecoptera,Pteronarcella badia,223,larvae,8,1,2.373946826,2.373946826
+AXL007,D6,Ni_25,Plecoptera,Sweltsa sp.,11,larvae,6,2,0.856243648,1.712487296
+AXL007,D6,Ni_25,Trichoptera,Arctopsyche grandis,212,larvae,7,1,1.242015573,1.242015573
+AXL007,D6,Ni_25,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,D6,Ni_25,Trichoptera,Arctopsyche grandis,212,larvae,10,1,3.400714523,3.400714523
+AXL007,D6,Ni_25,Trichoptera,Brachycentrus americanus,134,larvae,2,2,0.015157166,0.030314331
+AXL007,D6,Ni_25,Trichoptera,Brachycentrus occidentalis,134,larvae,5,1,0.164157988,0.164157988
+AXL007,D6,Ni_25,Trichoptera,Brachycentrus occidentalis,134,larvae,6,2,0.263714045,0.527428089
+AXL007,D6,Ni_25,Trichoptera,Brachycentrus occidentalis,134,larvae,7,6,0.393726742,2.36236045
+AXL007,D6,Ni_25,Trichoptera,Hydropsyche oslari,139,larvae,4,3,0.255733482,0.767200445
+AXL007,D6,Ni_25,Trichoptera,Lepidostoma sp.,45,larvae,2,10,0.049551357,0.495513567
+AXL007,D6,Ni_25,Trichoptera,Lepidostoma sp.,45,larvae,4,1,0.310802146,0.310802146
+AXL007,D7,NZ_200,Diptera,Atherix pachypus,159,larvae,5,1,0.216938473,0.216938473
+AXL007,D7,NZ_200,Diptera,Atherix pachypus,159,larvae,6,2,0.353688957,0.707377914
+AXL007,D7,NZ_200,Diptera,Atherix pachypus,159,larvae,10,3,1.391227001,4.173681003
+AXL007,D7,NZ_200,Diptera,Atherix pachypus,159,larvae,11,3,1.796270704,5.388812111
+AXL007,D7,NZ_200,Ephemeroptera,Drunella grandis,201,larvae,5,1,0.764330089,0.764330089
+AXL007,D7,NZ_200,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,1,0.354430665,0.354430665
+AXL007,D7,NZ_200,Ephemeroptera,Rhithrogena sp.,32,larvae,3,1,0.222543898,0.222543898
+AXL007,D7,NZ_200,Ephemeroptera,Rhithrogena sp.,32,larvae,4,4,0.491469953,1.965879812
+AXL007,D7,NZ_200,Ephemeroptera,Rhithrogena sp.,32,larvae,5,7,0.908630158,6.360411109
+AXL007,D7,NZ_200,Plecoptera,Pteronarcella badia,223,larvae,8,1,2.373946826,2.373946826
+AXL007,D7,NZ_200,Plecoptera,Sweltsa sp.,11,larvae,5,1,0.521083892,0.521083892
+AXL007,D7,NZ_200,Plecoptera,Sweltsa sp.,11,larvae,6,2,0.856243648,1.712487296
+AXL007,D7,NZ_200,Plecoptera,Sweltsa sp.,11,larvae,7,1,1.303048011,1.303048011
+AXL007,D7,NZ_200,Plecoptera,Zapada cinctipes,13,larvae,4,1,0.257678227,0.257678227
+AXL007,D7,NZ_200,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,D7,NZ_200,Trichoptera,Arctopsyche grandis,212,larvae,14,2,8.794998077,17.58999615
+AXL007,D7,NZ_200,Trichoptera,Arctopsyche grandis,212,larvae,20,1,24.0812421,24.0812421
+AXL007,D7,NZ_200,Trichoptera,Arctopsyche grandis,212,larvae,22,1,31.5189562,31.5189562
+AXL007,D7,NZ_200,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,D7,NZ_200,Trichoptera,Brachycentrus occidentalis,134,larvae,6,5,0.263714045,1.318570223
+AXL007,D7,NZ_200,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,D7,NZ_200,Trichoptera,Brachycentrus occidentalis,134,larvae,8,1,0.557152361,0.557152361
+AXL007,D7,NZ_200,Trichoptera,Lepidostoma sp.,45,larvae,2,12,0.049551357,0.59461628
+AXL007,D7,NZ_200,Trichoptera,Lepidostoma sp.,45,larvae,5,1,0.561304641,0.561304641
+AXL007,D8,NZ_800,Diptera,Atherix pachypus,159,larvae,4,1,0.119267148,0.119267148
+AXL007,D8,NZ_800,Diptera,Atherix pachypus,159,larvae,8,2,0.764860535,1.52972107
+AXL007,D8,NZ_800,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,D8,NZ_800,Diptera,Atherix pachypus,159,larvae,10,2,1.391227001,2.782454002
+AXL007,D8,NZ_800,Diptera,Atherix pachypus,159,larvae,11,4,1.796270704,7.185082815
+AXL007,D8,NZ_800,Diptera,Atherix pachypus,159,larvae,12,3,2.268208212,6.804624637
+AXL007,D8,NZ_800,Diptera,Atherix pachypus,159,larvae,13,1,2.811124793,2.811124793
+AXL007,D8,NZ_800,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,D8,NZ_800,Trichoptera,Arctopsyche grandis,212,larvae,13,1,7.13421516,7.13421516
+AXL007,D8,NZ_800,Trichoptera,Brachycentrus occidentalis,134,larvae,5,3,0.164157988,0.492473963
+AXL007,D8,NZ_800,Trichoptera,Brachycentrus occidentalis,134,larvae,6,1,0.263714045,0.263714045
+AXL007,D8,NZ_800,Trichoptera,Brachycentrus occidentalis,134,larvae,7,3,0.393726742,1.181180225
+AXL007,D8,NZ_800,Trichoptera,Lepidostoma sp.,45,larvae,2,5,0.049551357,0.247756783
+AXL007,D8,NZ_800,Trichoptera,Lepidostoma sp.,45,larvae,5,2,0.561304641,1.122609281
+AXL007,D9,control,Diptera,Atherix pachypus,159,larvae,4,1,0.119267148,0.119267148
+AXL007,D9,control,Diptera,Atherix pachypus,159,larvae,5,2,0.216938473,0.433876947
+AXL007,D9,control,Diptera,Atherix pachypus,159,larvae,6,1,0.353688957,0.353688957
+AXL007,D9,control,Diptera,Atherix pachypus,159,larvae,8,1,0.764860535,0.764860535
+AXL007,D9,control,Diptera,Atherix pachypus,159,larvae,9,1,1.048871212,1.048871212
+AXL007,D9,control,Diptera,Atherix pachypus,159,larvae,10,3,1.391227001,4.173681003
+AXL007,D9,control,Diptera,Atherix pachypus,159,larvae,11,3,1.796270704,5.388812111
+AXL007,D9,control,Diptera,Eukiefferiella sp.,120,larvae,4,1,0.12751271,0.12751271
+AXL007,D9,control,Diptera,Heterotrissocladius sp.,110,larvae,6,1,0.326916906,0.326916906
+AXL007,D9,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,3,6,0.017929162,0.10757497
+AXL007,D9,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,4,5,0.041915933,0.209579664
+AXL007,D9,control,Diptera,Micropsectra/Tanytarsus sp.,128,larvae,5,3,0.080994866,0.242984599
+AXL007,D9,control,Diptera,Polypedilum sp.,90,larvae,4,1,0.041915933,0.041915933
+AXL007,D9,control,Diptera,Polypedilum sp.,90,larvae,8,1,0.324354316,0.324354316
+AXL007,D9,control,Diptera,Rheotanytarsus sp.,86,larvae,3,1,0.017929162,0.017929162
+AXL007,D9,control,Ephemeroptera,Ameletus sp.,24,larvae,4,3,0.275299551,0.825898652
+AXL007,D9,control,Ephemeroptera,Baetis tricaudatus,26,larvae,3,4,0.124738201,0.498952805
+AXL007,D9,control,Ephemeroptera,Baetis tricaudatus,26,larvae,4,9,0.285232064,2.567088576
+AXL007,D9,control,Ephemeroptera,Baetis tricaudatus,26,larvae,5,3,0.5417696,1.6253088
+AXL007,D9,control,Ephemeroptera,Diphetor hageni,35,larvae,3,10,0.124738201,1.247382012
+AXL007,D9,control,Ephemeroptera,Diphetor hageni,35,larvae,4,2,0.285232064,0.570464128
+AXL007,D9,control,Ephemeroptera,Drunella doddsii,171,larvae,4,5,0.420677962,2.103389811
+AXL007,D9,control,Ephemeroptera,Drunella doddsii,171,larvae,5,2,0.764330089,1.528660177
+AXL007,D9,control,Ephemeroptera,Drunella grandis,201,larvae,4,1,0.420677962,0.420677962
+AXL007,D9,control,Ephemeroptera,Drunella grandis,201,larvae,5,8,0.764330089,6.114640708
+AXL007,D9,control,Ephemeroptera,Drunella grandis,201,larvae,6,4,1.245001775,4.980007101
+AXL007,D9,control,Ephemeroptera,Drunella grandis,201,larvae,7,2,1.880700239,3.761400478
+AXL007,D9,control,Ephemeroptera,Ephemerella sp.,28,larvae,2,31,0.065825398,2.040587335
+AXL007,D9,control,Ephemeroptera,Ephemerella sp.,28,larvae,3,40,0.194811102,7.792444067
+AXL007,D9,control,Ephemeroptera,Ephemerella sp.,28,larvae,4,12,0.420677962,5.048135546
+AXL007,D9,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,3,1,0.089876375,0.089876375
+AXL007,D9,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,4,4,0.194639506,0.778558026
+AXL007,D9,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,5,4,0.354430665,1.41772266
+AXL007,D9,control,Ephemeroptera,Paraleptophlebia sp.,33,larvae,6,4,0.578378468,2.313513871
+AXL007,D9,control,Ephemeroptera,Rhithrogena sp.,32,larvae,2,3,0.072855168,0.218565504
+AXL007,D9,control,Ephemeroptera,Rhithrogena sp.,32,larvae,3,25,0.222543898,5.563597453
+AXL007,D9,control,Ephemeroptera,Rhithrogena sp.,32,larvae,4,57,0.491469953,28.01378733
+AXL007,D9,control,Ephemeroptera,Rhithrogena sp.,32,larvae,5,51,0.908630158,46.34013808
+AXL007,D9,control,Ephemeroptera,Rhithrogena sp.,32,larvae,6,14,1.501247506,21.01746509
+AXL007,D9,control,Plecoptera,Hesperoperla pacifica,14,larvae,3,2,0.234027712,0.468055424
+AXL007,D9,control,Plecoptera,Hesperoperla pacifica,14,larvae,4,1,0.535754601,0.535754601
+AXL007,D9,control,Plecoptera,Sweltsa sp.,11,larvae,6,1,0.856243648,0.856243648
+AXL007,D9,control,Plecoptera,Sweltsa sp.,11,larvae,7,2,1.303048011,2.606096022
+AXL007,D9,control,Plecoptera,Sweltsa sp.,11,larvae,8,1,1.874694396,1.874694396
+AXL007,D9,control,Plecoptera,Taenionema sp.,176,larvae,2,1,0.045348939,0.045348939
+AXL007,D9,control,Plecoptera,Zapada cinctipes,13,larvae,4,1,0.257678227,0.257678227
+AXL007,D9,control,Trichoptera,Arctopsyche grandis,212,larvae,8,1,1.810907633,1.810907633
+AXL007,D9,control,Trichoptera,Arctopsyche grandis,212,larvae,9,1,2.525521225,2.525521225
+AXL007,D9,control,Trichoptera,Arctopsyche grandis,212,larvae,11,1,4.451056622,4.451056622
+AXL007,D9,control,Trichoptera,Arctopsyche grandis,212,larvae,13,1,7.13421516,7.13421516
+AXL007,D9,control,Trichoptera,Brachycentrus americanus,134,larvae,2,1,0.015157166,0.015157166
+AXL007,D9,control,Trichoptera,Brachycentrus occidentalis,134,larvae,6,6,0.263714045,1.582284268
+AXL007,D9,control,Trichoptera,Brachycentrus occidentalis,134,larvae,7,2,0.393726742,0.787453483
+AXL007,D9,control,Trichoptera,Hydropsyche cockerelli,139,larvae,5,1,0.48024347,0.48024347
+AXL007,D9,control,Trichoptera,Lepidostoma sp.,45,larvae,1,3,0.0079,0.0237
+AXL007,D9,control,Trichoptera,Lepidostoma sp.,45,larvae,2,57,0.049551357,2.824427332
+AXL007,D9,control,Trichoptera,Lepidostoma sp.,45,larvae,3,2,0.14505119,0.290102379
+AXL007,D9,control,Trichoptera,Lepidostoma sp.,45,larvae,4,2,0.310802146,0.621604291
+AXL007,D9,control,Trichoptera,Lepidostoma sp.,45,larvae,5,3,0.561304641,1.683913922
